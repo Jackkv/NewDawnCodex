@@ -9,6 +9,7 @@ Harness the arcane powers and become a master of magic in New Dawn.
 The primary spellcasting skill in Ultima Online.
 
 **Spell Circles:**
+
 - **First Circle (10-20 skill)** - Basic utility spells
 - **Second Circle (20-30 skill)** - More utility, minor combat
 - **Third Circle (30-40 skill)** - Teleport, combat spells
@@ -19,12 +20,14 @@ The primary spellcasting skill in Ultima Online.
 - **Eighth Circle (80+ skill)** - Earthquake, resurrection
 
 **Training:**
+
 - 0-30: Cast low circle spells repeatedly
 - 30-50: Teleport around, cast utility spells
 - 50-70: Cast combat spells in dungeons
 - 70-100: High circle spells, meditation between casts
 
 **Reagents Required:**
+
 - Black Pearl, Blood Moss, Garlic
 - Ginseng, Mandrake Root, Nightshade
 - Spider's Silk, Sulfurous Ash
@@ -38,11 +41,13 @@ The primary spellcasting skill in Ultima Online.
 Increases magic damage and spell effectiveness.
 
 **Effects:**
+
 - Boosts spell damage
 - Better spell success rate
 - Defensive benefit against spells
 
 **Training:**
+
 - Cast Evaluating Intelligence on creatures
 - Passive gains during spell combat
 
@@ -55,12 +60,14 @@ Increases magic damage and spell effectiveness.
 Regenerate mana faster.
 
 **Effects:**
+
 - Active mana regeneration
 - Must be stationary
 - Cannot be wearing metal armor
 - Higher skill = faster regeneration
 
 **Training:**
+
 - Use skill when low on mana
 - Gains when successfully meditating
 
@@ -75,12 +82,14 @@ Regenerate mana faster.
 Defense against hostile magic.
 
 **Effects:**
+
 - Resist spell effects
 - Reduce magic damage
 - Prevent paralysis/poison
 - Shorter duration on debuffs
 
 **Training:**
+
 - Get hit by hostile spells
 - Have friend cast on you
 - Fight enemy mages
@@ -94,12 +103,14 @@ Defense against hostile magic.
 Create spell scrolls and enhance spellbooks.
 
 **Benefits:**
+
 - Craft spell scrolls
 - Increased spell damage (if wearing scribed spells)
 - Create runebooks
 - Slayer spellbooks
 
 **Training:**
+
 - Scribe low circle scrolls (0-30)
 - Progress through circles
 - Make runebooks at high skill
@@ -113,11 +124,13 @@ Create spell scrolls and enhance spellbooks.
 Alternative mana regeneration (if Necromancy enabled).
 
 **Effects:**
+
 - Mana regeneration over time
 - Works in armor
 - Can be used while moving
 
 **Training:**
+
 - Use skill near corpses
 - Passive gains during use
 
@@ -128,6 +141,7 @@ Alternative mana regeneration (if Necromancy enabled).
 Alternative magic school (if enabled).
 
 **Effects:**
+
 - Unique spell set
 - Different from standard magery
 - Special abilities
@@ -139,6 +153,7 @@ Alternative magic school (if enabled).
 ### Utility Spells
 
 **Essential Utility:**
+
 - **Recall** - Teleport to marked rune
 - **Gate Travel** - Open portal for multiple people
 - **Mark** - Mark location on rune
@@ -146,12 +161,14 @@ Alternative magic school (if enabled).
 - **Invisibility** - Become invisible
 
 **Magic Lock/Unlock:**
+
 - **Magic Lock** - Lock containers
 - **Unlock Spell** - Open locked items
 
 ### Combat Spells
 
 **Direct Damage:**
+
 - **Lightning** - Fast, moderate damage
 - **Energy Bolt** - Slower, high damage
 - **Flamestrike** - Fire damage
@@ -159,11 +176,13 @@ Alternative magic school (if enabled).
 - **Chain Lightning** - Multiple targets
 
 **Summoning:**
+
 - **Blade Spirits** - Summon attacking spirits
 - **Energy Vortex** - Powerful summon
 - **Earth Elemental** - Summon elemental
 
 **Debuffs:**
+
 - **Curse** - Lower target's stats
 - **Weaken** - Reduce strength
 - **Clumsy** - Reduce dexterity
@@ -198,6 +217,7 @@ Create magical barriers:
 ## Mage Templates
 
 ### Pure Mage (PvM)
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Meditation: 100
@@ -207,6 +227,7 @@ Create magical barriers:
 - Poisoning: 40
 
 ### Battle Mage
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Weapon Skill: 100
@@ -216,6 +237,7 @@ Create magical barriers:
 - Meditation: 100
 
 ### Support Mage
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Meditation: 100
@@ -236,6 +258,7 @@ Create magical barriers:
 5. Summon Blade Spirits for help
 
 **Advanced:**
+
 - Pre-cast spells (store spell)
 - Kiting with teleport
 - Field spell traps
@@ -244,6 +267,7 @@ Create magical barriers:
 ### PvP (Player vs Player)
 
 **Core Tactics:**
+
 - Paralyze into Energy Bolt
 - Magic Reflection for defense
 - Poison spell into Explosion

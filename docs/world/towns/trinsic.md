@@ -9,16 +9,20 @@ Trinsic is known for its focus on honor and justice. The city attracts paladins,
 ## Key Locations
 
 ### Trinsic Bank
+
 - Southern town's main bank
 - Good gathering spot
 - Less crowded than Britain
 
 ### City Guard Post
+
 - Paladin trainers
 - Honor shrine nearby
 - Guard headquarters
 
 ## Vendors & Services
+
+**Available:**
 
 - Complete set of vendors
 - Paladin-themed services

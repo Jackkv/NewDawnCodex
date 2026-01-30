@@ -9,6 +9,7 @@ Protect yourself with various armor types in New Dawn.
 **Highest Protection**
 
 **Pieces:**
+
 - Plate Helm
 - Plate Gorget
 - Plate Chest
@@ -17,11 +18,13 @@ Protect yourself with various armor types in New Dawn.
 - Plate Legs
 
 **Pros:**
+
 - Maximum physical protection
 - High durability
 - Prestigious appearance
 
 **Cons:**
+
 - Heavy (movement penalty)
 - Dexterity loss
 - No meditation (blocks mana regen)
@@ -36,17 +39,20 @@ Protect yourself with various armor types in New Dawn.
 **Medium Protection**
 
 **Pieces:**
+
 - Chain Coif
 - Chain Tunic
 - Chain Leggings
 
 **Pros:**
+
 - Good protection
 - Moderate weight
 - Less dex penalty than plate
 - Affordable
 
 **Cons:**
+
 - Can't meditate
 - Less protection than plate
 
@@ -59,6 +65,7 @@ Protect yourself with various armor types in New Dawn.
 **Light Protection**
 
 **Pieces:**
+
 - Leather Cap
 - Leather Gorget
 - Leather Tunic
@@ -67,12 +74,14 @@ Protect yourself with various armor types in New Dawn.
 - Leather Legs
 
 **Pros:**
+
 - Allows meditation
 - Light weight
 - No dex penalty
 - Cheap
 
 **Cons:**
+
 - Low physical protection
 - Lower durability
 
@@ -87,12 +96,14 @@ Protect yourself with various armor types in New Dawn.
 Same pieces as leather but:
 
 **Pros:**
+
 - Better protection than leather
 - Still allows meditation (usually)
 - Moderate weight
 - Good for rangers
 
 **Cons:**
+
 - More expensive than leather
 - Check server rules on meditation
 
@@ -103,6 +114,7 @@ Same pieces as leather but:
 ### Armor Rating (AR)
 
 Total protection value:
+
 - Plate: 40-50 AR
 - Chain: 28-35 AR
 - Studded: 24-30 AR
@@ -111,6 +123,7 @@ Total protection value:
 ### Durability
 
 How much damage armor can take:
+
 - Repairs reduce max durability
 - High-quality lasts longer
 - Exceptional items more durable
@@ -118,6 +131,7 @@ How much damage armor can take:
 ### Weight
 
 Affects movement and stamina:
+
 - Plate: Very heavy
 - Chain: Moderate
 - Studded: Light-medium
@@ -135,6 +149,7 @@ Affects movement and stamina:
 ### Metal Types
 
 Same as weapons:
+
 - Iron through Valorite
 - Each provides different bonuses
 

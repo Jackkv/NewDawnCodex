@@ -9,16 +9,20 @@ Moonglow is dedicated to the study of magic and knowledge. It houses the Lycaeum
 ## Key Locations
 
 ### The Lycaeum
+
 - Massive library
 - Mage trainers
 - Knowledge and scrolls
 
 ### Moonglow Bank
+
 - Mage gathering spot
 - Spell trading
 - Reagent discussions
 
 ## Vendors & Services
+
+**Available:**
 
 - Multiple mage shops
 - Reagent vendors

@@ -9,7 +9,7 @@ repo_url: https://github.com/markdwags/NewDawn-Codex
 edit_uri: edit/main/docs/
 
 # Copyright
-copyright: Copyright &copy; 2024 New Dawn
+copyright: Copyright &copy; 2026 New Dawn
 
 # Theme configuration
 theme:
@@ -73,8 +73,8 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
@@ -103,6 +103,7 @@ nav:
     - New Player Guide: getting-started/new-player-guide.md
     - Character Creation: getting-started/character-creation.md
     - Controls & Interface: getting-started/controls-interface.md
+    - What's Different: getting-started/whats-different.md
   - Game Mechanics:
     - game-mechanics/index.md
     - Skills:
@@ -115,6 +116,20 @@ nav:
     - Combat System: game-mechanics/combat.md
     - Magic System: game-mechanics/magic.md
     - Crafting: game-mechanics/crafting.md
+    - Currencies: game-mechanics/currencies.md
+    - PvP & Murder:
+      - game-mechanics/pvp/index.md
+      - Murder System: game-mechanics/pvp/murder-system.md
+  - Custom Systems:
+    - custom-systems/index.md
+    - Codex Rifts: custom-systems/codex-rifts.md
+    - Pirate Adventures: custom-systems/pirate-adventures.md
+    - Capture the Flag: custom-systems/capture-the-flag.md
+    - Archaeology: custom-systems/archaeology.md
+    - Conquest of Virtues: custom-systems/conquest-of-virtues.md
+    - Spirit Summoner: custom-systems/spirit-summoner.md
+    - Gardening: custom-systems/gardening.md
+    - Achievements: custom-systems/achievements.md
   - World:
     - world/index.md
     - Towns:
@@ -139,6 +154,7 @@ nav:
     - community/index.md
     - Discord: community/discord.md
     - Contributing: community/contributing.md
+  - Patch Notes: patchnotes.md
 
 # Extra
 extra:

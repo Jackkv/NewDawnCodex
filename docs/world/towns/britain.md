@@ -38,6 +38,8 @@ Britain is the largest and most important city in Britannia. It serves as the po
 
 ## Vendors & Services
 
+**Available:**
+
 - **Blacksmith:** Weapons and armor repairs
 - **Mage Shop:** Reagents and spellbooks
 - **Provisioner:** General supplies

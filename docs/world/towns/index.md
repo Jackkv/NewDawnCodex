@@ -9,6 +9,7 @@ Discover the major towns and cities in the world of New Dawn.
 The capital city of Britannia and center of commerce.
 
 **Features:**
+
 - Castle British
 - Large bank (popular gathering spot)
 - All vendor types
@@ -23,6 +24,7 @@ The capital city of Britannia and center of commerce.
 The city of Honor and paladins.
 
 **Features:**
+
 - Paladin-themed city
 - Good for honorable characters
 - Complete vendor selection
@@ -37,6 +39,7 @@ The city of Honor and paladins.
 The city of magic and scholars.
 
 **Features:**
+
 - Mage-focused town
 - Lycaeum (library)
 - Excellent for mages
@@ -51,6 +54,7 @@ The city of magic and scholars.
 The mining and industrial town.
 
 **Features:**
+
 - Mining community
 - Crafters paradise
 - Near mountains

@@ -9,16 +9,19 @@ Covetous is a popular dungeon near Vesper, known for its diverse creature spawns
 ## Levels
 
 ### Level 1
+
 - **Creatures:** Harpies, gazers
 - **Difficulty:** Medium
 - **Loot:** Decent gold and items
 
 ### Level 2
+
 - **Creatures:** Elementals, gazers
 - **Difficulty:** Hard
 - **Loot:** Magic items common
 
 ### Level 3
+
 - **Creatures:** Dragons, drakes (if present)
 - **Difficulty:** Very Hard
 - **Loot:** Excellent rewards

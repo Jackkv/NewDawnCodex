@@ -4,7 +4,11 @@ Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New 
 
 ## What is New Dawn?
 
-New Dawn is a custom Ultima Online server that brings together classic UO gameplay with modern enhancements and custom content. Whether you're a veteran returning to Britannia or a newcomer exploring for the first time, this codex will be your guide.
+New Dawn is a passion project that captures the spirit of Ultima Online's golden T2A/UOR era. We're not chasing perfect historical accuracy—instead, we've preserved what made those days unforgettable while adding in thoughtful improvements drawn from years of UO expertise and modern gaming insights.
+
+Veterans will recognize the familiar rhythms of classic UO, but with enough fresh ideas to reignite that sense of discovery. If you're new to this era, you're in for something special: a living, breathing world where you forge your own path, not just chase quest markers and level caps.
+
+We've found the sweet spot between tradition and evolution—more authentic than contemporary shards, yet more polished than a rigid time capsule. Best of all, New Dawn is completely free-to-play with zero pay-to-win mechanics. Just pure Ultima Online as it was meant to be experienced.
 
 ## Quick Links
 
@@ -43,13 +47,6 @@ New Dawn is a custom Ultima Online server that brings together classic UO gamepl
     [:octicons-arrow-right-24: View Items](items/index.md)
 
 </div>
-
-## Server Information
-
-- **Server Address:** `play.uonewdawn.com`
-- **Client Version:** T2A (The Second Age)
-- **Era:** Custom with classic elements
-- **Status:** Active
 
 ## Latest Updates
 

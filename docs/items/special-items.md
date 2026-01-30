@@ -7,11 +7,13 @@ Unique, rare, and special items in New Dawn.
 ### Runes & Runebooks
 
 **Recall Runes:**
+
 - Mark locations
 - Recall to them
 - Essential for travel
 
 **Runebooks:**
+
 - Store multiple runes (16)
 - Organize travel spots
 - Charges for recalls
@@ -21,11 +23,13 @@ Unique, rare, and special items in New Dawn.
 ### Keys
 
 **House Keys:**
+
 - Access your property
 - Give to co-owners
 - Secure storage
 
 **Container Keys:**
+
 - Lock chests
 - Secure valuables
 
@@ -34,11 +38,13 @@ Unique, rare, and special items in New Dawn.
 ### Deeds
 
 **House Deeds:**
+
 - Place new houses
 - Various sizes
 - Valuable items
 
 **Commodity Deeds:**
+
 - Store bulk resources
 - Banking convenience
 - Crafting efficiency
@@ -81,15 +87,18 @@ Unique named items:
 ### Tools & Containers
 
 **Trapped Boxes:**
+
 - Lockpicking practice
 - Dungeon treasure
 
 **Treasure Maps:**
+
 - Hidden treasure locations
 - Varying difficulty levels
 - Cartography + lockpicking
 
 **SOS Messages:**
+
 - Fishing treasures
 - Deep sea adventures
 
@@ -98,16 +107,19 @@ Unique named items:
 ### Mounts
 
 **Horses:**
+
 - Speed boost
 - Various colors
 - Common transport
 
 **Special Mounts:**
+
 - Ethereal mounts (if available)
 - Never die
 - Fast travel
 
 **Pack Animals:**
+
 - Llamas
 - Pack horses
 - Beetles (best capacity)
@@ -125,6 +137,7 @@ Special server events may provide:
 ### Dyes & Colors
 
 **Rare Dyes:**
+
 - Special hue tubs
 - Unique colors
 - Furniture dyes
@@ -150,6 +163,7 @@ Beyond standard potions:
 ### Scrolls
 
 **Spell Scrolls:**
+
 - Single-use spells
 - All circles available
 - Emergency casting

@@ -76,6 +76,7 @@ Essential materials and resources for crafting and survival.
 ### Reagents
 
 **Magic Components:**
+
 - Black Pearl
 - Blood Moss
 - Garlic
@@ -92,6 +93,7 @@ Essential materials and resources for crafting and survival.
 ### Gems
 
 **Common Gems:**
+
 - Amber
 - Amethyst
 - Citrine
@@ -101,6 +103,7 @@ Essential materials and resources for crafting and survival.
 - Diamond
 
 **Uses:**
+
 - Jewelry crafting
 - Decoration
 - Value storage
@@ -120,11 +123,13 @@ Keep fed for stat regeneration:
 ### Potions
 
 **Healing Potions:**
+
 - Lesser Heal
 - Heal
 - Greater Heal
 
 **Other Potions:**
+
 - Cure (remove poison)
 - Refresh (restore stamina)
 - Explosion (damage)
@@ -157,16 +162,19 @@ Essential healing supply:
 ### Best Locations
 
 **Mining:**
+
 - Minoc mountains
 - Vesper mountains
 - Mountain caves
 
 **Lumberjacking:**
+
 - Yew forest
 - Any dense forest
 - Spiritwood areas
 
 **Hunting (leather):**
+
 - Forest animals
 - Swamp creatures
 - Special spawns for rare hides

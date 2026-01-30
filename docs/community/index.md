@@ -21,12 +21,14 @@ Our primary communication hub:
 ### In-Game Community
 
 **Chat Channels:**
+
 - General chat (global)
 - Help channel (assistance)
 - Trade channel (commerce)
 - Guild channels (guild members)
 
 **Social Hubs:**
+
 - Britain bank (most popular)
 - Town banks (regional hubs)
 - Guild houses (member gathering)

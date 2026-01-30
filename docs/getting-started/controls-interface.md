@@ -223,16 +223,19 @@ Configure automatic looting:
 ### Common Issues
 
 **Game is laggy:**
+
 - Check network connection
 - Reduce graphics settings
 - Close background applications
 
 **Can't click items:**
+
 - Ensure client is focused
 - Check for UI overlaps
 - Restart client if needed
 
 **Hotkeys not working:**
+
 - Verify key bindings
 - Check for conflicts
 - Re-record macro

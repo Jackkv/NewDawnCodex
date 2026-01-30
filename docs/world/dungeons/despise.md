@@ -9,16 +9,19 @@ Despise is an excellent dungeon for newer adventurers ready to move beyond basic
 ## Levels
 
 ### Level 1
+
 - **Creatures:** Ettins, lizardmen
 - **Difficulty:** Easy to Medium
 - **Loot:** Basic gold and items
 
 ### Level 2
+
 - **Creatures:** Harpies, stronger ettins
 - **Difficulty:** Medium
 - **Loot:** Better equipment drops
 
 ### Lower Levels
+
 - **Creatures:** Ogre lords, trolls
 - **Difficulty:** Hard
 - **Loot:** Magic items, good gold

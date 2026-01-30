@@ -11,14 +11,17 @@ Ultima Online uses three primary statistics that define your character's capabil
 **Primary Effect:** Hit Points and Physical Damage
 
 **Formula:**
+
 - Hit Points = Strength
 
 **Additional Effects:**
+
 - Carrying capacity (weight limit)
 - Melee weapon damage bonus
 - Required for certain equipment
 
 **Recommended for:**
+
 - Warriors (80-100)
 - Archers (80-100)
 - Tanks (100)
@@ -32,15 +35,18 @@ Ultima Online uses three primary statistics that define your character's capabil
 **Primary Effect:** Stamina and Swing Speed
 
 **Formula:**
+
 - Stamina = Dexterity
 
 **Additional Effects:**
+
 - Weapon swing speed
 - Faster attacks with higher dex
 - Defense chance (minor)
 - Affects archery significantly
 
 **Recommended for:**
+
 - Archers (100)
 - Fencers (80-100)
 - Swordsmen (80-100)
@@ -53,14 +59,17 @@ Ultima Online uses three primary statistics that define your character's capabil
 **Primary Effect:** Mana Pool
 
 **Formula:**
+
 - Mana = Intelligence
 
 **Additional Effects:**
+
 - Magic spell effectiveness
 - Mana regeneration rate
 - Required for spellcasting
 
 **Recommended for:**
+
 - Mages (100-130 with items)
 - Tamers (100-130)
 - Warriors (45-60 for utility)
@@ -132,6 +141,7 @@ Stats gain through skill usage:
 **Formula:** HP = Strength
 
 **Effects:**
+
 - Your health pool
 - When it reaches 0, you die
 - Can be healed by bandages, spells, potions
@@ -145,12 +155,14 @@ Stats gain through skill usage:
 **Formula:** Stamina = Dexterity
 
 **Effects:**
+
 - Required for running
 - Special move costs
 - Regenerates over time
 - Lowered by armor weight
 
 **Recovery:**
+
 - Passive regeneration (standing/walking)
 - Affected by armor weight
 - Total refresh potions restore instantly
@@ -162,11 +174,13 @@ Stats gain through skill usage:
 **Formula:** Mana = Intelligence
 
 **Effects:**
+
 - Required for spellcasting
 - Special abilities cost
 - Regenerates slowly (faster with meditation)
 
 **Recovery:**
+
 - Meditation skill (active)
 - Passive regeneration (slow)
 - Total mana refresh potions
@@ -209,32 +223,39 @@ Evaluating Intelligence also significantly affects this
 ### Buffs (Positive)
 
 **Bless Spell:**
+
 - +10 to all stats temporarily
 - Duration: 2 minutes
 
 **Strength Potion:**
+
 - +10-25 Strength
 - Duration: 2 minutes
 
 **Agility Potion:**
+
 - +10 Dexterity
 - Duration: 2 minutes
 
 ### Debuffs (Negative)
 
 **Curse Spell:**
+
 - -10 to all stats
 - Can be removed with Remove Curse
 
 **Weaken Spell:**
+
 - Reduces Strength
 - Duration: varies
 
 **Clumsy Spell:**
+
 - Reduces Dexterity
 - Duration: varies
 
 **Feeblemind Spell:**
+
 - Reduces Intelligence
 - Duration: varies
 
@@ -243,6 +264,8 @@ Evaluating Intelligence also significantly affects this
 ### Stat Requirements
 
 Many items require minimum stats:
+
+**Heavy Weapons:**
 
 - **Heavy Weapons:** 50-80 STR
 - **Plate Armor:** 40-60 STR
@@ -265,11 +288,13 @@ Equipment can provide:
 ### PvP Considerations
 
 **Warrior Stats:**
+
 - 100 STR (maximum damage and HP)
 - 80-100 DEX (swing speed)
 - 45 INT (utility magic)
 
 **Mage Stats:**
+
 - 80-100 STR (HP for survival)
 - 60-80 DEX (stamina and defense)
 - 85-100 INT (mana pool)
@@ -277,11 +302,13 @@ Equipment can provide:
 ### PvM Optimization
 
 **Melee Hunter:**
+
 - 100 STR (damage and HP)
 - 80 DEX (swing speed)
 - 45 INT (recalls/utility)
 
 **Pure Mage:**
+
 - 50-60 STR (decent HP)
 - 50-60 DEX (mobility)
 - 110-130 INT (large mana pool)
@@ -299,6 +326,7 @@ Equipment can provide:
 ## Common Mistakes
 
 ❌ **Don't:**
+
 - Spread stats too evenly
 - Ignore stat locks
 - Forget equipment requirements
@@ -306,6 +334,7 @@ Equipment can provide:
 - Neglect mana (even for warriors)
 
 ✅ **Do:**
+
 - Focus on 2-3 primary stats
 - Use stat locks effectively
 - Plan for your build

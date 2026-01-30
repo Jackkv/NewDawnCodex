@@ -34,6 +34,7 @@ You have **700 total skill points** that can be distributed across many skills:
 Perfect for new players who enjoy melee combat.
 
 **Skills:**
+
 - Swordsmanship: 100
 - Tactics: 100
 - Anatomy: 100
@@ -48,6 +49,7 @@ Perfect for new players who enjoy melee combat.
 Ranged combat specialist.
 
 **Skills:**
+
 - Archery: 100
 - Tactics: 100
 - Anatomy: 100
@@ -64,6 +66,7 @@ Ranged combat specialist.
 Masters of magic and offensive spells.
 
 **Skills:**
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Meditation: 100
@@ -78,6 +81,7 @@ Masters of magic and offensive spells.
 Combines magic with combat prowess.
 
 **Skills:**
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Swordsmanship: 100
@@ -94,6 +98,7 @@ Combines magic with combat prowess.
 Create weapons and armor.
 
 **Skills:**
+
 - Blacksmithy: 100
 - Mining: 100
 - Tinkering: 100
@@ -108,6 +113,7 @@ Create weapons and armor.
 Master of leather and cloth work.
 
 **Skills:**
+
 - Tailoring: 100
 - Tinkering: 100
 - Arms Lore: 100
@@ -124,6 +130,7 @@ Master of leather and cloth work.
 Control powerful creatures to fight for you.
 
 **Skills:**
+
 - Animal Taming: 100
 - Animal Lore: 100
 - Veterinary: 100

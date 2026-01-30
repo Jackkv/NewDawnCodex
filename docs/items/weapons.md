@@ -55,6 +55,7 @@ Guide to weapons and their properties in New Dawn.
 - **Heavy Crossbow:** Highest damage
 
 **Ammunition:**
+
 - Arrows (bows)
 - Bolts (crossbows)
 

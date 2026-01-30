@@ -9,16 +9,19 @@ Shame is a multi-level dungeon known for its earth elementals and mineral-based 
 ## Levels
 
 ### Level 1
+
 - **Creatures:** Earth elementals, elementals
 - **Difficulty:** Medium
 - **Loot:** Good for gems and ore
 
 ### Level 2
+
 - **Creatures:** Stronger elementals, golems
 - **Difficulty:** Hard
 - **Loot:** Better magic items
 
 ### Level 3
+
 - **Creatures:** Air elementals, powerful creatures
 - **Difficulty:** Very Hard
 - **Loot:** Rare items and gold

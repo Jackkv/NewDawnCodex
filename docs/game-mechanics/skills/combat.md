@@ -9,11 +9,13 @@ Master the art of warfare with these combat-focused skills in New Dawn.
 Use bladed weapons effectively.
 
 **Weapons:**
+
 - Longsword, Broadsword, Katana
 - Viking Sword, Cutlass, Scimitar
 - Two-handed: Halberd, Bardiche
 
 **Training:**
+
 - 0-30: Training dummy
 - 30-50: Weak monsters (ettins, orcs)
 - 50-70: Mid-level monsters (trolls, ogres)
@@ -28,6 +30,7 @@ Use bladed weapons effectively.
 Mastery of piercing weapons.
 
 **Weapons:**
+
 - Kryss, Dagger, War Fork
 - Spear, Pitchfork
 - Short Spear, Leafblade
@@ -44,6 +47,7 @@ Similar to Swordsmanship
 Expertise with blunt weapons.
 
 **Weapons:**
+
 - Mace, War Mace, Maul
 - War Hammer, Hammer Pick
 - War Axe, Club
@@ -62,21 +66,25 @@ Similar to Swordsmanship
 Ranged combat with bows and crossbows.
 
 **Weapons:**
+
 - Bow, Crossbow
 - Heavy Crossbow
 - Composite Bow (if available)
 
 **Ammunition:**
+
 - Arrows (for bows)
 - Bolts (for crossbows)
 
 **Training:**
+
 - 0-30: Training dummy
 - 30-50: Animals (bears, great harts)
 - 50-70: Mid monsters at range
 - 70-100: Difficult monsters, PvP
 
 **Advantages:**
+
 - Fight at range (safe)
 - Kiting ability
 - Poison arrows
@@ -90,11 +98,13 @@ Ranged combat with bows and crossbows.
 Unarmed combat and defensive capability.
 
 **Uses:**
+
 - Disarm opponents
 - Defensive ability for mages
 - Stun punch
 
 **Training:**
+
 - 0-40: Training dummy
 - 40-60: Sparring
 - 60-100: Combat
@@ -110,11 +120,13 @@ Unarmed combat and defensive capability.
 Increases damage output in combat.
 
 **Effect:**
+
 - Damage bonus to all physical attacks
 - Scales with skill level
 - Essential for all combat builds
 
 **Training:**
+
 - Gains during any combat
 - Passive skill improvement
 
@@ -127,11 +139,13 @@ Increases damage output in combat.
 Improves critical hit chance and healing.
 
 **Effects:**
+
 - Increased critical hit damage
 - Better healing with bandages
 - Damage bonus
 
 **Training:**
+
 - Gains during combat
 - Passive improvement
 
@@ -144,15 +158,18 @@ Improves critical hit chance and healing.
 Shield-based defense.
 
 **Effects:**
+
 - Block incoming attacks
 - Reduces damage taken
 - Active defense bonus
 
 **Requirements:**
+
 - Shield equipped
 - Combat skill
 
 **Training:**
+
 - Take hits while holding shield
 - Higher skill enemies = better gains
 
@@ -165,17 +182,20 @@ Shield-based defense.
 Use bandages to heal yourself and others.
 
 **Effects:**
+
 - Heal hit point damage
 - Cure poison (with Anatomy)
 - Resurrect players (with Anatomy)
 
 **Training:**
+
 - 0-30: Heal yourself when damaged
 - 30-50: Heal during light combat
 - 50-80: Heal during serious combat
 - 80-100: Heal others, difficult wounds
 
 **Requirements:**
+
 - Bandages
 - Anatomy skill (for best results)
 
@@ -188,11 +208,13 @@ Use bandages to heal yourself and others.
 Defense against magic.
 
 **Effects:**
+
 - Resist hostile spells
 - Reduce spell damage
 - Avoid spell effects
 
 **Training:**
+
 - Get hit by spells
 - Have someone cast on you
 - Combat with mages
@@ -206,6 +228,7 @@ Defense against magic.
 Many weapons have special attacks:
 
 **Common Specials:**
+
 - **Armor Ignore** - Bypass armor
 - **Concussion Blow** - Reduce mana
 - **Crushing Blow** - Extra damage
@@ -227,6 +250,7 @@ Many weapons have special attacks:
 4. Use special moves wisely
 
 **Advanced:**
+
 - Weapon switching mid-combat
 - Timing heal bandages
 - Special move combos
@@ -240,6 +264,7 @@ Many weapons have special attacks:
 4. Use terrain advantage
 
 **Advanced:**
+
 - Pre-poisoning arrows
 - Target switching
 - Hiding between shots
@@ -267,6 +292,7 @@ Balance:
 For player vs player combat:
 
 **Essential:**
+
 - High weapon skill (100)
 - Tactics (100)
 - Anatomy (100)
@@ -274,6 +300,7 @@ For player vs player combat:
 - Resisting Spells (100)
 
 **Recommended:**
+
 - Parrying (80+)
 - Magery for utility (40-80)
 
@@ -289,6 +316,7 @@ For player vs player combat:
 ## Skill Combinations
 
 ### Tank Build
+
 - Weapon Skill: 100
 - Tactics: 100
 - Anatomy: 100
@@ -298,6 +326,7 @@ For player vs player combat:
 - Magery: 100
 
 ### Archer Build
+
 - Archery: 100
 - Tactics: 100
 - Anatomy: 100
@@ -307,6 +336,7 @@ For player vs player combat:
 - Resisting Spells: 100
 
 ### Bard Warrior
+
 - Weapon Skill: 100
 - Tactics: 100
 - Musicianship: 100

@@ -9,16 +9,20 @@ Vesper is a thriving industrial town focused on mining, smithing, and crafting. 
 ## Key Locations
 
 ### Vesper Bank
+
 - Crafter meeting spot
 - Ore trading
 - Tool exchanges
 
 ### Smithy District
+
 - Multiple forges
 - Blacksmith shops
 - Crafting facilities
 
 ## Vendors & Services
+
+**Available:**
 
 - Blacksmith shops
 - Mining supplies

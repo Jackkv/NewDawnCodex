@@ -13,16 +13,19 @@ Our Discord server is the heart of the community:
 ### General Channels
 
 **#general:**
+
 - Open discussion
 - Casual chat
 - Community interaction
 
 **#announcements:**
+
 - Server updates
 - Important news
 - Event notifications
 
 **#help:**
+
 - Ask questions
 - Get assistance
 - New player support
@@ -30,16 +33,19 @@ Our Discord server is the heart of the community:
 ### Game Channels
 
 **#in-game-chat:**
+
 - Connected to game chat
 - Real-time communication
 - Stay connected while offline
 
 **#trading:**
+
 - Buy and sell items
 - Price checks
 - Trade negotiations
 
 **#guild-recruitment:**
+
 - Find guilds
 - Recruit members
 - Guild advertisements
@@ -47,16 +53,19 @@ Our Discord server is the heart of the community:
 ### Community Channels
 
 **#events:**
+
 - Server events
 - Player-organized events
 - Event coordination
 
 **#screenshots:**
+
 - Share your adventures
 - Show off achievements
 - Cool moments
 
 **#suggestions:**
+
 - Server suggestions
 - Feature requests
 - Constructive feedback

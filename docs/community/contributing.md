@@ -34,6 +34,7 @@ The New Dawn Codex is an open-source wiki built with MkDocs. We welcome contribu
 ### Writing Style
 
 **Do:**
+
 - Write clearly and concisely
 - Use proper grammar and spelling
 - Organize information logically
@@ -41,6 +42,7 @@ The New Dawn Codex is an open-source wiki built with MkDocs. We welcome contribu
 - Be objective and factual
 
 **Don't:**
+
 - Use slang or inappropriate language
 - Include personal opinions as facts
 - Add misleading information
