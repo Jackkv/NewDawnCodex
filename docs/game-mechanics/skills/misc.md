@@ -105,6 +105,26 @@ Detect poison in food and identify potions.
 
 **Importance:** ⭐⭐ (Limited use)
 
+---
+
+### Begging
+
+Request gold from NPCs.
+
+**Effects:**
+
+- Beg NPCs for gold
+- Small amounts of money
+- Success based on skill level
+
+**Training:**
+
+- Use on town NPCs
+- Repeated attempts
+- Low gold income
+
+**Importance:** ⭐ (Very limited use)
+
 ## Resource Gathering
 
 ### Fishing
@@ -128,6 +148,34 @@ Catch fish and other treasures from water.
 **Requirements:** Fishing pole
 
 **Importance:** ⭐⭐⭐⭐ (Good money maker)
+
+---
+
+### Bowcraft/Fletching
+
+Craft bows, crossbows, and ammunition.
+
+**Creates:**
+
+- Bows and crossbows
+- Arrows and bolts
+- Wooden shields
+
+**Requirements:**
+
+- Fletching tools
+- Logs and wood
+
+**Training:**
+
+- 0-30: Craft arrows and shafts
+- 30-50: Make bows
+- 50-70: Crossbows
+- 70-100: Exceptional weapons
+
+**Pairs Well With:** Lumberjacking, Archery
+
+**Importance:** ⭐⭐⭐⭐ (Essential for archers)
 
 ## Stealth & Thievery
 
@@ -496,15 +544,15 @@ Make creatures fight each other.
 
 ---
 
-### Discordance
+### Enticement
 
-Weaken a creature's abilities.
+Charm and entrance NPCs and creatures.
 
 **Effects:**
 
-- Lower creature stats
-- Reduce damage dealt
-- Easier to kill tough monsters
+- Entrance creatures to stop attacking
+- Alternative to Peacemaking
+- Area effect on nearby creatures
 
 **Requirements:**
 
@@ -513,10 +561,11 @@ Weaken a creature's abilities.
 
 **Training:**
 
-- Use on various creatures
-- Higher skill needed for tough monsters
+- Use on aggressive creatures
+- Practice in dungeons
+- Higher skill for tougher monsters
 
-**Importance:** ⭐⭐⭐⭐ (Very useful for bards)
+**Importance:** ⭐⭐⭐ (Alternative bard skill)
 
 ## Specialized Templates
 

@@ -80,57 +80,111 @@ Item creation focus:
 
 ### Combat Skills
 
-| Skill | Purpose | Paired With |
-|-------|---------|-------------|
-| Swordsmanship | Sword weapons | Tactics, Anatomy |
-| Fencing | Fencing weapons | Tactics, Anatomy |
-| Mace Fighting | Blunt weapons | Tactics, Anatomy |
-| Archery | Bows and crossbows | Tactics, Anatomy |
-| Wrestling | Unarmed combat | Tactics, Anatomy |
-| Parrying | Shield defense | Combat skills |
-| Tactics | Damage bonus | All combat |
-| Anatomy | Critical hits | Combat skills |
+Weapon skills and combat support abilities for warriors and fighters.
 
-[:octicons-arrow-right-24: Detailed Combat Skills](combat.md)
+#### Weapon Skills
+- **[Swordsmanship](swordsmanship.md)** - Master bladed weapons
+- **[Fencing](fencing.md)** - Excel with piercing weapons
+- **[Mace Fighting](mace-fighting.md)** - Wield blunt weapons effectively
+- **[Archery](archery.md)** - Ranged combat with bows and crossbows
+- **[Wrestling](wrestling.md)** - Unarmed combat and mage defense
+
+#### Support Skills
+- **[Tactics](tactics.md)** ⭐ - Essential damage multiplier
+- **[Anatomy](anatomy.md)** ⭐ - Critical hits and healing bonus
+- **[Healing](healing.md)** ⭐ - Bandage yourself and others
+- **[Parrying](parrying.md)** - Shield-based defense
+- **[Resisting Spells](resisting-spells.md)** ⭐ - Defense against magic
+
+[:octicons-arrow-right-24: View All Combat Skills](combat.md)
 
 ### Magic Skills
 
-| Skill | Purpose | Paired With |
-|-------|---------|-------------|
-| Magery | Cast spells | Eval Int, Meditation |
-| Evaluating Intelligence | Magic damage | Magery |
-| Meditation | Mana regeneration | Magery |
-| Resisting Spells | Magic resistance | All templates |
-| Spirit Speak | Mana regeneration | Necromancy |
+Spellcasting and magical abilities for mages and spellcasters.
 
-[:octicons-arrow-right-24: Detailed Magic Skills](magic.md)
+#### Core Mage Skills
+
+- **[Magery](magery.md)** ⭐ - Primary spellcasting skill
+- **[Evaluating Intelligence](evaluating-intelligence.md)** ⭐ - Magic damage boost
+- **[Meditation](meditation.md)** ⭐ - Mana regeneration
+- **[Resisting Spells](resisting-spells.md)** ⭐ - Magic resistance (universal)
+
+#### Support & Alternative
+
+- **[Inscription](inscription.md)** - Scribe scrolls, increase damage
+- **[Spirit Speak](spirit-speak.md)** - Alternative mana regeneration
+
+[:octicons-arrow-right-24: View All Magic Skills](magic.md)
 
 ### Crafting Skills
 
-| Skill | Creates | Paired With |
-|-------|---------|-------------|
-| Blacksmithy | Metal armor/weapons | Mining, Tinkering |
-| Tailoring | Cloth/leather armor | Camping |
-| Carpentry | Wood items | Lumberjacking |
-| Tinkering | Tools and gadgets | Mining |
-| Alchemy | Potions | Inscription |
+Create items, gather resources, and build equipment.
 
-[:octicons-arrow-right-24: Detailed Crafting Skills](crafting.md)
+#### Primary Crafting
+
+- **Blacksmithy** - Forge metal weapons and armor
+- **Tailoring** - Create cloth and leather armor
+- **Carpentry** - Craft wood items and furniture
+- **Tinkering** - Make tools and jewelry
+- **Alchemy** - Brew potions and elixirs
+- **Inscription** - Scribe spell scrolls (see [Magic Skills](#magic-skills))
+- **Cooking** - Prepare food and beverages
+
+#### Support Skills
+
+- **Arms Lore** - Identify and assess equipment
+- **Item Identification** - Reveal magical properties
+- **Mining** - Gather ore and gems
+- **Lumberjacking** - Harvest wood from trees
+
+[:octicons-arrow-right-24: View All Crafting Skills](crafting.md)
 
 ### Miscellaneous Skills
 
-| Skill | Purpose |
-|-------|---------|
-| Healing | Bandage others/self |
-| Mining | Gather ore |
-| Lumberjacking | Gather wood |
-| Fishing | Catch fish |
-| Hiding | Become invisible |
-| Stealth | Move while hidden |
-| Tracking | Find creatures |
-| Detect Hidden | Find hidden things |
+Utility, stealth, animals, bard skills, and specialized abilities.
 
-[:octicons-arrow-right-24: Detailed Misc Skills](misc.md)
+#### Utility & Gathering
+
+- **Healing** - Bandage healing (see [Combat Skills](#combat-skills))
+- **Camping** - Create campfires for rest
+- **Cartography** - Decode treasure maps
+- **Fishing** - Catch fish and treasures
+- **Forensic Evaluation** - Investigate deaths
+- **Taste Identification** - Detect poisons
+- **Begging** - Request gold from NPCs
+- **Bowcraft/Fletching** - Craft bows and ammunition
+
+#### Stealth & Thievery
+
+- **Hiding** - Become invisible
+- **Stealth** - Move while hidden
+- **Snooping** - Look in containers
+- **Stealing** - Take items from others
+- **Detect Hidden** - Reveal hidden players/objects
+- **Lockpicking** - Open locked containers
+- **Remove Trap** - Disarm trapped chests
+
+#### Animal Skills
+
+- **Animal Taming** - Control creatures
+- **Animal Lore** - Understand animals
+- **Veterinary** - Heal pets
+- **Herding** - Control animal groups
+
+#### Bard Skills
+
+- **Musicianship** - Required for bard abilities
+- **Peacemaking** - Calm aggressive creatures
+- **Provocation** - Make creatures fight each other
+- **Enticement** - Charm and entrance creatures
+
+#### Detection & Assessment
+
+- **Tracking** - Locate creatures and players
+- **Arms Lore** - Evaluate equipment (see [Crafting](#crafting-skills))
+- **Item Identification** - Identify magic items (see [Crafting](#crafting-skills))
+
+[:octicons-arrow-right-24: View All Misc Skills](misc.md)
 
 ## Training Your Skills
 

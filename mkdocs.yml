@@ -107,10 +107,30 @@ nav:
     - game-mechanics/index.md
     - Skills:
       - game-mechanics/skills/index.md
-      - Combat Skills: game-mechanics/skills/combat.md
-      - Crafting Skills: game-mechanics/skills/crafting.md
-      - Magic Skills: game-mechanics/skills/magic.md
-      - Misc Skills: game-mechanics/skills/misc.md
+      - Combat:
+        - Overview: game-mechanics/skills/combat.md
+        - Swordsmanship: game-mechanics/skills/swordsmanship.md
+        - Fencing: game-mechanics/skills/fencing.md
+        - Mace Fighting: game-mechanics/skills/mace-fighting.md
+        - Archery: game-mechanics/skills/archery.md
+        - Wrestling: game-mechanics/skills/wrestling.md
+        - Tactics: game-mechanics/skills/tactics.md
+        - Anatomy: game-mechanics/skills/anatomy.md
+        - Parrying: game-mechanics/skills/parrying.md
+        - Healing: game-mechanics/skills/healing.md
+        - Resisting Spells: game-mechanics/skills/resisting-spells.md
+        - Poisoning: game-mechanics/skills/poisoning.md
+      - Magic:
+        - Overview: game-mechanics/skills/magic.md
+        - Magery: game-mechanics/skills/magery.md
+        - Evaluating Intelligence: game-mechanics/skills/evaluating-intelligence.md
+        - Meditation: game-mechanics/skills/meditation.md
+        - Inscription: game-mechanics/skills/inscription.md
+        - Spirit Speak: game-mechanics/skills/spirit-speak.md
+      - Crafting:
+        - Overview: game-mechanics/skills/crafting.md
+      - Misc:
+        - Overview: game-mechanics/skills/misc.md
     - Stats: game-mechanics/stats.md
     - Combat System: game-mechanics/combat.md
     - Magic System: game-mechanics/magic.md

@@ -134,20 +134,6 @@ Alternative mana regeneration (if Necromancy enabled).
 - Use skill near corpses
 - Passive gains during use
 
----
-
-### Mysticism
-
-Alternative magic school (if enabled).
-
-**Effects:**
-
-- Unique spell set
-- Different from standard magery
-- Special abilities
-
-**Check with server:** May not be available on all shards
-
 ## Spell Categories
 
 ### Utility Spells
