@@ -15,11 +15,12 @@ New Dawn features a single PvP-enabled facet:
 ## Core PvP Mechanics
 
 ### Combat System
+
 New Dawn's combat includes numerous custom modifications:
 
 - No dexterity penalty (replaced with stamina loss system)
 - Custom weapon and armor values (UOR era)
-- Modified spell damage for PvP
+- Modified spell damage for PvP balance
 - Explosion potion mechanics
 - Archery snare ability
 - Parrying shield bash
@@ -117,83 +118,9 @@ For complete details, see the [Murder System](murder-system.md) page.
 
 ## PvP Builds
 
-### Mage
+!!! tip
+To be added
 
-- High burst damage
-- Mobility with recall/gate
-- Support abilities
-- Explosion potion synergy
-
-### Dexxer (Warrior)
-
-- Sustained melee damage
-- Heavy armor
-- Archery snare ability
-- Disarm capabilities
-
-### Hybrid
-
-- Combination of magic and melee
-- Versatility
-- Adapts to situations
-- Complex to master
-
-### Bard
-
-- Disruption and control
-- Provo enemies onto targets
-- Discord to reduce effectiveness
-- Support role in groups
-
-### Tamer
-
-- Pet damage
-- Blocking with pets
-- Veterinary healing
-- All-kill tactics
-
-## PvP Strategy
-
-### Solo PvP
-
-- Pick your fights carefully
-- Know escape routes
-- Understand your build's strengths
-- Resource management crucial
-- Always be prepared to flee
-
-### Group PvP
-
-- Communication is key
-- Focus fire targets
-- Coordinate special abilities
-- Support your teammates
-- Control positioning
-
-### Resource PvP
-
-- Defend your gathering spots
-- Contest valuable locations
-- Quick thinking required
-- Balance risk vs reward
-
-## PvP Ethics and Community
-
-### Server Culture
-
-- Respect between rivals
-- Good-natured competition
-- Drama happens but stay positive
-- Report serious issues to staff
-- Build reputation through actions
-
-### Common Courtesy
-
-- Don't trash talk excessively
-- Accept losses gracefully
-- Celebrate wins humbly
-- Help new PvPers learn
-- Remember it's a game
 
 ## Rewards and Progression
 
@@ -239,6 +166,7 @@ A: Yes, except blessed/newbie items. This is risk vs reward.
 ## Getting Started with PvP
 
 ### For New Players
+
 1. Practice PvM combat first
 2. Learn your build thoroughly
 3. Start with cheap gear
@@ -248,6 +176,7 @@ A: Yes, except blessed/newbie items. This is risk vs reward.
 7. Don't get discouraged
 
 ### Progression Path
+
 1. **Learn mechanics:** Understand combat system
 2. **Practice skills:** Target dummies, PvM
 3. **Cheap gear PvP:** Get experience without huge losses

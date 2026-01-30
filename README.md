@@ -10,6 +10,19 @@ This repository contains the source for the New Dawn Codex, built with [MkDocs](
 
 When you submit changes via pull request, they will be automatically deployed to the live site once merged to the `main` branch.
 
+### Quick Edit on GitHub
+
+**Don't want to set up a local environment?** You can contribute directly through GitHub's web interface:
+
+1. **Navigate to the file** you want to edit in the [repository](https://github.com/UONewDawn/Codex)
+2. **Click the pencil icon** (✏️) in the top-right corner of the file view
+3. **Make your changes** in the GitHub editor
+4. **Preview your changes** using the "Preview" tab
+5. **Propose changes** by filling out the commit message at the bottom
+6. **Create a pull request** - GitHub will automatically fork the repo and create a PR for you
+
+This is perfect for fixing typos, updating content, or making small improvements without needing to install anything locally!
+
 ## Getting Started
 
 ### Prerequisites
