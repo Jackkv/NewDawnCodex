@@ -192,15 +192,25 @@ nav:
     - Towns:
       - world/towns/index.md
       - Britain: world/towns/britain.md
-      - Trinsic: world/towns/trinsic.md
+      - Buccaneer's Den: world/towns/bucs.md
+      - Cove: world/towns/cove.md
+      - Jhelom: world/towns/jhelom.md
+      - Magincia: world/towns/magincia.md
       - Moonglow: world/towns/moonglow.md
+      - New Minoc: world/towns/newminoc.md
+      - Nujel'm: world/towns/nujelm.md
+      - Ocllo: world/towns/ocllo.md
+      - Serpent's Hold: world/towns/serpentshold.md
+      - The Lost Lands: world/towns/t2a.md
+      - Trinsic: world/towns/trinsic.md
       - Vesper: world/towns/vesper.md
+      - Wind: world/towns/wind.md
+      - Yew: world/towns/yew.md
     - Dungeons:
       - world/dungeons/index.md
       - Shame: world/dungeons/shame.md
       - Despise: world/dungeons/despise.md
       - Covetous: world/dungeons/covetous.md
-    - Geography: world/geography.md
   - Items & Equipment:
     - items/index.md
     - Weapons: items/weapons.md

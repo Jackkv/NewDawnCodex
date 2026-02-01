@@ -8,54 +8,110 @@ Tame and control wild creatures as loyal pets.
 
 Animal Taming allows you to befriend wild creatures and command them in combat. One of the most powerful and versatile skills in the game, enabling unique playstyles centered around pet companions.
 
+## Active Use
+
+When you actively use the Animal Taming skill:
+
+- **Target Range**: 6 tiles
+- **Targeting Timeout**: 30 seconds (if you don't select a target)
+- **Actual Cooldown**: None - you can attempt again immediately after success or failure
+- **Process**: Reveals you and starts a taming attempt with 3-4 attempts (random) at 3-second intervals
+- **Initial Message**: "Tame which animal?" when initiating
+
+### Taming Requirements
+
+Before you can attempt to tame a creature:
+
+- **Minimum Skill**: Must have at least the creature's `MinTameSkill` or you'll be told "You have no chance of taming this creature."
+- **Already Owned**: Creatures with too many previous owners (max varies) cannot be retamed
+- **Gender Requirements**: Some creatures can only be tamed by males or females
+- **Race Requirements**: Cu Sidhe can only be tamed by Elves
+- **Control Slots**: Must have enough follower slots available
+- **Subduing**: Some creatures must be subdued (reduced to < 10% HP) before taming
+- **Line of Sight**: Must maintain clear path and vision during taming
+- **Range**: Must stay within 6 tiles during the entire taming process
+- **Damage**: If the creature takes damage during taming, the attempt fails
+
+### Taming Success Formula
+
+Success is determined by checking Animal Taming skill against:
+
+```text
+minSkill = creature.MinTameSkill + (creature.Owners.Count * 6.0) + 24.9
+Skill check: minSkill - 25.0 to minSkill + 25.0
+```
+
+- **First Time Taming**: Base difficulty from creature's MinTameSkill
+- **Retaming**: Difficulty increases by 6.0 per previous owner
+- **Already Owned**: If you previously owned the creature, taming automatically succeeds
+
+### Anger Chance
+
+When attempting to tame, there's a 95% chance the creature will:
+
+- Display: "You seem to anger the beast!"
+- Attack you (unless you have Honor virtue active)
+- Break any barding pacification (75% chance to re-pacify after 2 seconds)
+
+### Skill Scaling on First Tame
+
+When a creature is tamed for the first time:
+
+**Greater Dragons**:
+
+- Skills scaled to 72% of original
+- Skill caps set to 90% of original
+- Magery set to its cap value
+
+**Creatures Subdued (Paralyzed) During Taming**:
+
+- Skills scaled to 86% of original
+
+**All Other Creatures**:
+
+- Skills scaled to 90% of original
+
+**Stat Scaling**:
+
+- If `StatLossAfterTame` is true: Stats scaled to 50% of original
+
+### Animal Lore Gains
+
+During the taming process (each 3-second interval), you passively check Animal Lore for skill gain if you don't already own the creature.
+
 ## Effects
 
 ### Creature Control
-- Tame wild animals and monsters
-- Command up to 5 control slots of pets
-- Issue combat commands to pets
-- Transfer pets to other players
 
-### Tameable Creatures
-Different creatures require different skill levels:
-- **Low Skill (0-30)**: Cats, dogs, birds
-- **Medium Skill (30-60)**: Horses, llamas, bears
-- **High Skill (60-85)**: Great harts, white wolves, bulls
-- **Expert (85-95)**: Hell hounds, dragons, white wyrms
-- **Master (95-100+)**: Nightmares, dragon turtles
+- Tame wild animals and monsters
+- Command pets via voice commands
+- Issue combat orders to pets
+- Transfer pet control to others
+
+### Control Slots
+
+Each creature requires a certain number of control slots. Your maximum follower slots determine how many pets you can control simultaneously.
 
 ## Training
 
-### Early (0-30)
-- Tame farm animals
-- Practice on dogs and cats
-- Work up to horses
+### Skill Gain
 
-### Intermediate (30-60)
-- Tame bears and bulls
-- Practice on great harts
-- Build control slots
-
-### Advanced (60-85)
-- Tame powerful predators
-- Work toward dragons
-- Use taming skill scrolls if available
-
-### Master (85-100+)
-- Tame dragons and nightmares
-- Seek rare spawn creatures
-- Build ultimate pet army
+- Gains occur on successful taming attempts
+- Difficulty-based: Taming creatures near your skill level gives best gains
+- Each taming cycle provides multiple skill check opportunities
 
 !!! warning "Difficulty"
-    Taming is one of the hardest skills to train. Patience and dedication required.
+    Taming is one of the hardest skills to train. Patience and dedication required. Stay within range, maintain line of sight, and prevent the creature from taking damage during the taming process.
 
 ## Related Skills
 
 **Required:**
+
 - [Animal Lore](animal-lore.md) - Evaluate creatures ⭐⭐⭐⭐⭐
 - [Veterinary](veterinary.md) - Heal your pets ⭐⭐⭐⭐⭐
 
 **Recommended:**
+
 - [Magery](magery.md) - Utility and travel
 - [Meditation](meditation.md) - Mana regeneration
 - [Resisting Spells](resisting-spells.md) - Survival
@@ -63,18 +119,21 @@ Different creatures require different skill levels:
 ## Pet Commands
 
 ### Basic Commands
+
 - **All Guard Me** - Pets defend you
 - **All Follow Me** - Pets follow you
 - **All Stay** - Pets hold position
 - **All Kill** - Attack target
 
 ### Advanced Commands
+
 - **All Stop** - Cease current action
 - Individual pet commands by name
 
 ## Character Templates
 
 ### Pure Tamer (PvM)
+
 - Animal Taming: 100
 - **Animal Lore: 100**
 - Veterinary: 100
@@ -86,12 +145,15 @@ Different creatures require different skill levels:
 ## Pet Loyalty
 
 ### Loyalty System
+
 Pets have loyalty levels that must be maintained:
+
 - Feed pets regularly
 - Keep pets alive
 - Don't overwork pets
 
 ### Bonding
+
 - Pets can be bonded after time
 - Bonded pets resurrect instead of dying permanently
 - Essential for valuable pets
@@ -103,6 +165,7 @@ Pets have loyalty levels that must be maintained:
 ---
 
 **Related Pages:**
+
 - [Animal Lore](animal-lore.md)
 - [Veterinary](veterinary.md)
 - [Skills Overview](index.md)
