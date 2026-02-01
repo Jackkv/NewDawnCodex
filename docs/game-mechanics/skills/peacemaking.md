@@ -43,7 +43,7 @@ Use Peacemaking:
 
 **Bard Skills:**
 - [Provocation](provocation.md) - Offensive alternative
-- [Enticement](enticement.md) - Single target control
+- [Discordance](discordance.md) - Debuff targets
 
 **Bard Template:**
 - [Musicianship](musicianship.md): 100
@@ -117,5 +117,5 @@ Use Peacemaking:
 **Related Pages:**
 - [Musicianship](musicianship.md)
 - [Provocation](provocation.md)
-- [Enticement](enticement.md)
+- [Discordance](discordance.md)
 - [Combat System](../combat.md)

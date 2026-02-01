@@ -15,23 +15,14 @@ copyright: Copyright &copy; 2026 New Dawn
 theme:
   name: material
   palette:
-    # Palette toggle for light mode
-    - scheme: default
-      primary: deep purple
-      accent: purple
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    # Palette toggle for dark mode
-    - scheme: slate
-      primary: deep purple
-      accent: purple
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
+    scheme: slate
+    primary: custom
+    accent: custom
   font:
-    text: Roboto
+    text: Noto Sans
     code: Roboto Mono
+  logo: assets/logo.png
+  favicon: assets/favicon-32x32.png
   features:
     - navigation.tabs
     - navigation.tabs.sticky
@@ -100,95 +91,111 @@ nav:
   - Home: index.md
   - Getting Started:
     - getting-started/index.md
-    - New Player Guide: getting-started/new-player-guide.md
     - Character Creation: getting-started/character-creation.md
+    - New Player Guide: getting-started/new-player-guide.md
     - What's Different: getting-started/whats-different.md
+  - Community & Resources:
+    - community/index.md
+    - Contributing: community/contributing.md
+    - Discord: community/discord.md
+  - Custom Systems:
+    - custom-systems/index.md
+    - Achievements: custom-systems/achievements.md
+    - Archaeology: custom-systems/archaeology.md
+    - Capture the Flag: custom-systems/capture-the-flag.md
+    - Codex Rifts: custom-systems/codex-rifts.md
+    - Conquest of Virtues: custom-systems/conquest-of-virtues.md
+    - Gardening: custom-systems/gardening.md
+    - Pirate Adventures: custom-systems/pirate-adventures.md
+    - Spirit Summoner: custom-systems/spirit-summoner.md
   - Game Mechanics:
     - game-mechanics/index.md
+    - Combat System: game-mechanics/combat.md
+    - Crafting: game-mechanics/crafting.md
+    - Currencies: game-mechanics/currencies.md
+    - Magic System: game-mechanics/magic.md
+    - PvP & Murder:
+      - game-mechanics/pvp/index.md
+      - Murder System: game-mechanics/pvp/murder-system.md
     - Skills:
       - game-mechanics/skills/index.md
-      - Combat:
-        - Overview: game-mechanics/skills/combat.md
-        - Swordsmanship: game-mechanics/skills/swordsmanship.md
-        - Fencing: game-mechanics/skills/fencing.md
-        - Mace Fighting: game-mechanics/skills/mace-fighting.md
-        - Archery: game-mechanics/skills/archery.md
-        - Wrestling: game-mechanics/skills/wrestling.md
-        - Tactics: game-mechanics/skills/tactics.md
-        - Anatomy: game-mechanics/skills/anatomy.md
-        - Parrying: game-mechanics/skills/parrying.md
-        - Healing: game-mechanics/skills/healing.md
-        - Resisting Spells: game-mechanics/skills/resisting-spells.md
-        - Poisoning: game-mechanics/skills/poisoning.md
-      - Magic:
-        - Overview: game-mechanics/skills/magic.md
-        - Magery: game-mechanics/skills/magery.md
-        - Evaluating Intelligence: game-mechanics/skills/evaluating-intelligence.md
-        - Meditation: game-mechanics/skills/meditation.md
-        - Inscription: game-mechanics/skills/inscription.md
-        - Spirit Speak: game-mechanics/skills/spirit-speak.md
       - Bard Skills:
+        - Discordance: game-mechanics/skills/discordance.md
         - Musicianship: game-mechanics/skills/musicianship.md
-        - Provocation: game-mechanics/skills/provocation.md
         - Peacemaking: game-mechanics/skills/peacemaking.md
-        - Enticement: game-mechanics/skills/enticement.md
-      - Taming & Animals:
-        - Animal Taming: game-mechanics/skills/animal-taming.md
-        - Animal Lore: game-mechanics/skills/animal-lore.md
-        - Veterinary: game-mechanics/skills/veterinary.md
-        - Herding: game-mechanics/skills/herding.md
+        - Provocation: game-mechanics/skills/provocation.md
+      - Combat:
+        - Anatomy: game-mechanics/skills/anatomy.md
+        - Archery: game-mechanics/skills/archery.md
+        - Fencing: game-mechanics/skills/fencing.md
+        - Healing: game-mechanics/skills/healing.md
+        - Mace Fighting: game-mechanics/skills/mace-fighting.md
+        - Overview: game-mechanics/skills/combat.md
+        - Parrying: game-mechanics/skills/parrying.md
+        - Poisoning: game-mechanics/skills/poisoning.md
+        - Resisting Spells: game-mechanics/skills/resisting-spells.md
+        - Swordsmanship: game-mechanics/skills/swordsmanship.md
+        - Tactics: game-mechanics/skills/tactics.md
+        - Wrestling: game-mechanics/skills/wrestling.md
       - Crafting:
-        - Overview: game-mechanics/skills/crafting.md
         - Alchemy: game-mechanics/skills/alchemy.md
         - Blacksmithy: game-mechanics/skills/blacksmithy.md
         - Bowcraft/Fletching: game-mechanics/skills/bowcraft-fletching.md
         - Carpentry: game-mechanics/skills/carpentry.md
+        - Cooking: game-mechanics/skills/cooking.md
+        - Overview: game-mechanics/skills/crafting.md
         - Tailoring: game-mechanics/skills/tailoring.md
         - Tinkering: game-mechanics/skills/tinkering.md
-        - Cooking: game-mechanics/skills/cooking.md
-      - Resource Gathering:
-        - Mining: game-mechanics/skills/mining.md
-        - Lumberjacking: game-mechanics/skills/lumberjacking.md
-        - Fishing: game-mechanics/skills/fishing.md
-      - Stealth & Thievery:
-        - Hiding: game-mechanics/skills/hiding.md
-        - Stealth: game-mechanics/skills/stealth.md
-        - Stealing: game-mechanics/skills/stealing.md
-        - Snooping: game-mechanics/skills/snooping.md
-        - Lockpicking: game-mechanics/skills/lockpicking.md
-        - Detecting Hidden: game-mechanics/skills/detecting-hidden.md
-      - Utility & Support:
-        - Arms Lore: game-mechanics/skills/arms-lore.md
-        - Item Identification: game-mechanics/skills/item-identification.md
-        - Tracking: game-mechanics/skills/tracking.md
-        - Cartography: game-mechanics/skills/cartography.md
-        - Remove Trap: game-mechanics/skills/remove-trap.md
-        - Forensic Evaluation: game-mechanics/skills/forensic-evaluation.md
-        - Taste Identification: game-mechanics/skills/taste-identification.md
-        - Camping: game-mechanics/skills/camping.md
-        - Begging: game-mechanics/skills/begging.md
+      - Magic:
+        - Evaluating Intelligence: game-mechanics/skills/evaluating-intelligence.md
+        - Inscription: game-mechanics/skills/inscription.md
+        - Magery: game-mechanics/skills/magery.md
+        - Meditation: game-mechanics/skills/meditation.md
+        - Overview: game-mechanics/skills/magic.md
+        - Spirit Speak: game-mechanics/skills/spirit-speak.md
       - Misc:
         - Overview: game-mechanics/skills/misc.md
+      - Resource Gathering:
+        - Fishing: game-mechanics/skills/fishing.md
+        - Lumberjacking: game-mechanics/skills/lumberjacking.md
+        - Mining: game-mechanics/skills/mining.md
+      - Stealth & Thievery:
+        - Detecting Hidden: game-mechanics/skills/detecting-hidden.md
+        - Hiding: game-mechanics/skills/hiding.md
+        - Lockpicking: game-mechanics/skills/lockpicking.md
+        - Snooping: game-mechanics/skills/snooping.md
+        - Stealing: game-mechanics/skills/stealing.md
+        - Stealth: game-mechanics/skills/stealth.md
+      - Taming & Animals:
+        - Animal Lore: game-mechanics/skills/animal-lore.md
+        - Animal Taming: game-mechanics/skills/animal-taming.md
+        - Herding: game-mechanics/skills/herding.md
+        - Veterinary: game-mechanics/skills/veterinary.md
+      - Utility & Support:
+        - Arms Lore: game-mechanics/skills/arms-lore.md
+        - Begging: game-mechanics/skills/begging.md
+        - Camping: game-mechanics/skills/camping.md
+        - Cartography: game-mechanics/skills/cartography.md
+        - Forensic Evaluation: game-mechanics/skills/forensic-evaluation.md
+        - Item Identification: game-mechanics/skills/item-identification.md
+        - Remove Trap: game-mechanics/skills/remove-trap.md
+        - Taste Identification: game-mechanics/skills/taste-identification.md
+        - Tracking: game-mechanics/skills/tracking.md
     - Stats: game-mechanics/stats.md
-    - Combat System: game-mechanics/combat.md
-    - Magic System: game-mechanics/magic.md
-    - Crafting: game-mechanics/crafting.md
-    - Currencies: game-mechanics/currencies.md
-    - PvP & Murder:
-      - game-mechanics/pvp/index.md
-      - Murder System: game-mechanics/pvp/murder-system.md
-  - Custom Systems:
-    - custom-systems/index.md
-    - Codex Rifts: custom-systems/codex-rifts.md
-    - Pirate Adventures: custom-systems/pirate-adventures.md
-    - Capture the Flag: custom-systems/capture-the-flag.md
-    - Archaeology: custom-systems/archaeology.md
-    - Conquest of Virtues: custom-systems/conquest-of-virtues.md
-    - Spirit Summoner: custom-systems/spirit-summoner.md
-    - Gardening: custom-systems/gardening.md
-    - Achievements: custom-systems/achievements.md
+  - Items & Equipment:
+    - items/index.md
+    - Armor: items/armor.md
+    - Resources: items/resources.md
+    - Special Items: items/special-items.md
+    - Weapons: items/weapons.md
+  - Patch Notes: patchnotes.md
   - World:
     - world/index.md
+    - Dungeons:
+      - world/dungeons/index.md
+      - Covetous: world/dungeons/covetous.md
+      - Despise: world/dungeons/despise.md
+      - Shame: world/dungeons/shame.md
     - Towns:
       - world/towns/index.md
       - Britain: world/towns/britain.md
@@ -206,28 +213,12 @@ nav:
       - Vesper: world/towns/vesper.md
       - Wind: world/towns/wind.md
       - Yew: world/towns/yew.md
-    - Dungeons:
-      - world/dungeons/index.md
-      - Shame: world/dungeons/shame.md
-      - Despise: world/dungeons/despise.md
-      - Covetous: world/dungeons/covetous.md
-  - Items & Equipment:
-    - items/index.md
-    - Weapons: items/weapons.md
-    - Armor: items/armor.md
-    - Resources: items/resources.md
-    - Special Items: items/special-items.md
-  - Community & Resources:
-    - community/index.md
-    - Discord: community/discord.md
-    - Contributing: community/contributing.md
-  - Patch Notes: patchnotes.md
 
 # Extra
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/uonewdawn
+      link: https://discord.gg/AStx3wYAPj
       name: Join our Discord
     - icon: fontawesome/brands/github
       link: https://github.com/UONewDawn/Codex

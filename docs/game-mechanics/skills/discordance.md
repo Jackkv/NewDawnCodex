@@ -1,19 +1,19 @@
-![Enticement](../../assets/Flag_enticement.gif){ align=right }
+![Discordance](../../assets/Flag_enticement.gif){ align=right }
 
-# Enticement
+# Discordance
 
-Charm creatures and NPCs with music.
+Weaken creatures and NPCs with discordant music.
 
 ## Overview
 
-Enticement (also called Enticement or Charm) is a bard skill that allows you to charm creatures and NPCs, temporarily making them non-hostile or even friendly. Part of the bard skill suite.
+Discordance is a bard skill that allows you to weaken creatures and NPCs with discordant music, reducing their combat effectiveness. Part of the bard skill suite.
 
 ## Effects
 
-### Creature Charming
-- Make aggressive creatures passive
-- Temporarily charm monsters
-- Create temporary allies
+### Creature Weakening
+- Reduce creature stats and resistances
+- Lower combat effectiveness
+- Debuff enemy targets
 - Duration based on skill
 
 ### Requirements
@@ -24,7 +24,7 @@ Enticement (also called Enticement or Charm) is a bard skill that allows you to 
 ## Training
 
 ### Active Training
-Use Enticement on:
+Use Discordance on:
 - Aggressive monsters
 - Town creatures
 - Dungeon monsters
@@ -46,7 +46,7 @@ Use Enticement on:
 
 **Bard Template:**
 - [Musicianship](musicianship.md): 100
-- **Enticement: 100** ⭐
+- **Discordance: 100** ⭐
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
 - [Magery](magery.md): 100

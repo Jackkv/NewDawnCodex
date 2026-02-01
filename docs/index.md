@@ -1,8 +1,10 @@
-# Welcome to the New Dawn Codex
+# New Dawn Codex
 
 Welcome to the **New Dawn Codex**, your comprehensive guide to the world of New Dawn - an Ultima Online free shard experience!
 
 ## What is New Dawn?
+
+![NewDawnLogo](./assets/logo.png){ align=right }
 
 New Dawn is a passion project that captures the spirit of Ultima Online's golden T2A/UOR era. We're not chasing perfect historical accuracy—instead, we've preserved what made those days unforgettable while adding in thoughtful improvements drawn from years of UO expertise and modern gaming insights.
 
@@ -57,7 +59,7 @@ We've found the sweet spot between tradition and evolution—more authentic than
 
 Connect with fellow players, get help, and stay updated:
 
-- [:fontawesome-brands-discord: Join our Discord](https://discord.gg/uonewdawn)
+- [:fontawesome-brands-discord: Join our Discord](https://discord.gg/AStx3wYAPj)
 - [:fontawesome-brands-github: GitHub Repository](https://github.com/UONewDawn/Codex)
 
 ---

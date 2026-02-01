@@ -184,7 +184,7 @@ Your changes will be reviewed and, once approved, automatically deployed to the 
 
 - 📖 [MkDocs Documentation](https://www.mkdocs.org/)
 - 🎨 [Material Theme Docs](https://squidfunk.github.io/mkdocs-material/)
-- 💬 [Join our Discord](https://discord.gg/uonewdawn)
+- 💬 [Join our Discord](https://discord.gg/AStx3wYAPj)
 - 🐛 [Report Issues](https://github.com/UONewDawn/Codex/issues)
 
 ## Technology Stack

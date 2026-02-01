@@ -14,7 +14,7 @@ Musicianship is the core skill for all bard abilities. It determines the success
 Enables and enhances:
 - [Peacemaking](peacemaking.md) - Pacify area
 - [Provocation](provocation.md) - Turn monsters against each other
-- [Enticement](enticement.md) - Charm creatures
+- [Discordance](discordance.md) - Weaken creatures
 
 ### Success Modifier
 - Higher Musicianship = better bard skill success
@@ -55,7 +55,7 @@ Crafted by [Carpentry](carpentry.md)
 **Enables Bard Skills:**
 - [Peacemaking](peacemaking.md) - Area pacification ⭐⭐⭐⭐⭐
 - [Provocation](provocation.md) - Monster combat ⭐⭐⭐⭐⭐
-- [Enticement](enticement.md) - Creature charm ⭐⭐⭐
+- [Discordance](discordance.md) - Debuff creatures ⭐⭐⭐
 
 **Standard Bard Template:**
 - Musicianship: 100 ⭐
@@ -93,5 +93,5 @@ Crafted by [Carpentry](carpentry.md)
 **Related Pages:**
 - [Peacemaking](peacemaking.md)
 - [Provocation](provocation.md)
-- [Enticement](enticement.md)
+- [Discordance](discordance.md)
 - [Carpentry](carpentry.md)
