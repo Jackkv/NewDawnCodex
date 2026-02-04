@@ -11,36 +11,39 @@ Fencing focuses on speed and precision with piercing weapons. This skill excels 
 ## Weapons
 
 ### Light Weapons
+
 - Kryss
 - Dagger
 - War Fork
 
 ### Reach Weapons
+
 - Spear
 - Pitchfork
 - Short Spear
 
-### Special Weapons
-- Leafblade (if available)
-
 ## Training
 
 ### Early Training (0-30)
+
 - Training dummy practice
 - Low-cost entry
 - Focus on form
 
 ### Intermediate (30-50)
+
 - Weak monsters (ettins, orcs)
 - Practice on mobile targets
 - Work on timing
 
 ### Advanced (50-70)
+
 - Mid-level monsters (trolls, ogres)
 - Group hunting
 - Develop combat strategies
 
 ### Master Level (70-100)
+
 - Strong monsters (dragons, demons)
 - PvP combat
 - Perfect technique
@@ -48,12 +51,14 @@ Fencing focuses on speed and precision with piercing weapons. This skill excels 
 ## Related Skills
 
 **Essential Pairs:**
+
 - [Tactics](tactics.md) - Damage multiplier
 - [Anatomy](anatomy.md) - Critical hits
 - [Healing](healing.md) - Survivability
 - [Poisoning](poisoning.md) - Deadly combos
 
 **Recommended:**
+
 - [Resisting Spells](resisting-spells.md) - Defense
 
 ## Combat Advantages
@@ -75,14 +80,10 @@ Fencing weapons are ideal for poisoning:
 
 ## Weapon Special Moves
 
-Common fencing specials:
-
-- **Armor Ignore** - Bypass defense
-- **Paralyzing Blow** - Freeze opponent
-- **Infectious Strike** - Poison damage boost
-- **Shadow Strike** - Stealth attack
-
 ## Character Templates
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 ### Poison Fencer
 
@@ -111,6 +112,7 @@ Common fencing specials:
 ---
 
 **Related Pages:**
+
 - [Combat Skills Overview](index.md#combat-skills)
 - [Poisoning](poisoning.md)
 - [Combat System](../combat.md)

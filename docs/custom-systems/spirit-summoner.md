@@ -281,7 +281,8 @@ For complete history, see the [patch notes](../patchnotes.md).
 ## Related Systems
 
 - [Magic System](../game-mechanics/magic.md) - Core magic mechanics
-- [Skills](../game-mechanics/skills/magic.md) - Spirit Speak and Magery details
+- [Magery](../game-mechanics/skills/magery.md) - Magery skill details
+- [Spirit Speak](../game-mechanics/skills/spirit-speak.md) - Spirit Speak skill details
 - [Combat System](../game-mechanics/combat.md) - Combat mechanics with summons
 
 ## Conclusion

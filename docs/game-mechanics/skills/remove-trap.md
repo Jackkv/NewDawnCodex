@@ -11,12 +11,14 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Effects
 
 ### Trap Disarmament
+
 - Remove traps from chests
 - Avoid trap damage
 - Safe treasure chest opening
 - Prevent poison, explosion, and magic traps
 
 ### Trap Types
+
 - **Explosion Traps** - Deal physical damage
 - **Poison Traps** - Apply poison
 - **Magic Traps** - Various magical effects
@@ -24,22 +26,29 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Early (0-30)
+
 - Practice on trapped training boxes
 - Buy or craft trapped containers
 - Practice in safe areas
 
 ### Intermediate (30-60)
+
 - Disarm dungeon chest traps
 - Practice on treasure chests
 - Increase difficulty gradually
 
 ### Advanced (60-85)
+
 - Disarm high-level treasure traps
 - Master trap removal
 - High success rates
 
 ### Master (85-100)
+
 - Expert trap removal
 - Disarm any trap
 - Minimal failures
@@ -47,6 +56,7 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Materials
 
 ### No Tools Required
+
 - Remove Trap uses no tools
 - Just the skill itself
 - Can be used repeatedly
@@ -54,10 +64,12 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Related Skills
 
 **Essential For:**
+
 - [Cartography](cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
 - [Lockpicking](lockpicking.md) - Open after disarming ⭐⭐⭐⭐⭐
 
 **Treasure Hunter Template:**
+
 - [Cartography](cartography.md): 100
 - [Lockpicking](lockpicking.md): 100
 - [Mining](mining.md): 100
@@ -68,17 +80,20 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Uses
 
 ### Treasure Hunting
+
 - Disarm treasure chest traps
 - Safe chest opening
 - Avoid damage and poison
 - Essential for treasure hunting
 
 ### Dungeon Exploration
+
 - Disarm trapped dungeon chests
 - Safe looting
 - Avoid surprises
 
 ### Safety
+
 - Prevent trap damage
 - Avoid poison application
 - Protect yourself and party
@@ -86,6 +101,7 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ## Treasure Hunting Process
 
 ### Complete Process
+
 1. Decode treasure map ([Cartography](cartography.md))
 2. Travel to location
 3. Dig up chest ([Mining](mining.md))
@@ -96,13 +112,13 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 
 ## Failure Consequences
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Failed Disarm
-- Trap activates
-- Take damage
-- May be poisoned
-- Can retry after healing
 
 ### Success Benefits
+
 - No damage taken
 - Safe opening
 - Proceed to lockpicking
@@ -115,6 +131,7 @@ Remove Trap allows you to disarm traps on chests and containers before opening t
 ---
 
 **Related Pages:**
+
 - [Cartography](cartography.md)
 - [Lockpicking](lockpicking.md)
 - [Mining](mining.md)

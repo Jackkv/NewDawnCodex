@@ -221,10 +221,10 @@ The Gardening system may expand to include:
 
 ## Related Skills
 
-- [Animal Taming](../game-mechanics/skills/misc.md) - For managing livestock
-- [Animal Lore](../game-mechanics/skills/misc.md) - Understanding animal needs
-- [Veterinary](../game-mechanics/skills/misc.md) - Keeping animals healthy
-- [Tailoring](../game-mechanics/skills/crafting.md) - Using cotton, flax, and wool
+- [Animal Taming](../game-mechanics/skills/animal-taming.md) - For managing livestock
+- [Animal Lore](../game-mechanics/skills/animal-lore.md) - Understanding animal needs
+- [Veterinary](../game-mechanics/skills/veterinary.md) - Keeping animals healthy
+- [Tailoring](../game-mechanics/skills/tailoring.md) - Using cotton, flax, and wool
 
 ## Patch History
 

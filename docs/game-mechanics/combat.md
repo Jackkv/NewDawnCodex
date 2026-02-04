@@ -127,6 +127,9 @@ Modified by: Tactics, Anatomy, Weapon accuracy
 
 **Damage Formula:**
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ```text
 Base Weapon Damage
 × Strength modifier
@@ -146,15 +149,6 @@ Base Weapon Damage
 ### Ranged Weapons
 
 - **Archery:** Bows and crossbows
-- **Thrown:** Throwing weapons (if available)
-
-### Damage Types
-
-- **Physical:** Standard damage
-- **Fire:** Effective vs. certain creatures
-- **Cold:** Ice-based damage
-- **Poison:** Damage over time
-- **Energy:** Magic-based physical damage
 
 ## Combat Skills
 
@@ -170,18 +164,6 @@ Base Weapon Damage
 - Parrying
 - Resisting Spells
 - Magery (utility)
-
-## Special Moves
-
-Many weapons have special abilities:
-
-- **Armor Ignore:** Bypass armor completely
-- **Concussion Blow:** Drain target's mana
-- **Disarm:** Remove opponent's weapon
-- **Double Strike:** Attack twice
-- **Paralyzing Blow:** Temporarily freeze target
-
-**Activation:** Usually via hotkey or special book
 
 ## Defense Mechanics
 
@@ -205,12 +187,6 @@ Many weapons have special abilities:
 - Blocks incoming attacks
 - Higher skill = more blocks
 
-### Evasion
-
-- Based on Dexterity
-- Chance to avoid attacks
-- Wrestling provides defensive benefit
-
 ## Healing in Combat
 
 ### Bandages
@@ -233,6 +209,9 @@ Many weapons have special abilities:
 - **Refresh Potions:** Restore stamina
 
 ## Combat Strategies
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 ### Melee Combat
 
@@ -312,12 +291,6 @@ Many weapons have special abilities:
 - Can't move or cast
 - Wears off after time
 - Can be dispelled
-
-### Bleeding
-
-- Damage over time
-- Requires bandaging
-- Stops naturally
 
 ## Combat Macros
 

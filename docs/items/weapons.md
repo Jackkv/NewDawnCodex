@@ -69,6 +69,7 @@ Guide to weapons and their properties in New Dawn.
 ### Damage
 
 Base damage range:
+
 - Example: 15-30 damage
 - Modified by STR
 - Enhanced by tactics
@@ -76,6 +77,7 @@ Base damage range:
 ### Speed
 
 How fast weapon swings:
+
 - Fast: Katana, Kryss
 - Medium: Most swords
 - Slow: Two-handed weapons
@@ -83,6 +85,7 @@ How fast weapon swings:
 ### Requirements
 
 Strength needed to wield:
+
 - Light: 10-30 STR
 - Medium: 40-60 STR
 - Heavy: 70-100 STR
@@ -98,22 +101,10 @@ Weapons in New Dawn have traditional qualities:
 
 ## Weapon Materials
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Metals
-
-Higher tier metals provide increased durability and damage:
-
-- **Iron:** Standard material
-- **Dull Copper:** Enhanced durability
-- **Shadow Iron:** Improved damage
-- **Copper:** Better quality
-- **Bronze:** Enhanced properties
-- **Gold:** Increased damage
-- **Agapite:** Superior quality
-- **Verite:** Exceptional quality
-- **Valorite:** Legendary quality
-
-!!! note "Traditional Crafting"
-    Blacksmiths can craft weapons from these materials, with higher tier metals producing more durable and damaging weapons.
 
 ## Choosing a Weapon
 

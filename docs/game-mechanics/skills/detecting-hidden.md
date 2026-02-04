@@ -11,12 +11,14 @@ Detecting Hidden allows you to reveal players using Hiding or Stealth, as well a
 ## Effects
 
 ### Reveal Hidden Characters
+
 - Detect hidden players
 - Counter [Hiding](hiding.md) skill
 - Counter [Stealth](stealth.md) movement
 - Reveal invisible enemies
 
 ### Discover Hidden Objects
+
 - Find hidden items
 - Detect trapped objects
 - Discover secret doors (if present)
@@ -24,13 +26,16 @@ Detecting Hidden allows you to reveal players using Hiding or Stealth, as well a
 ## Training
 
 ### Active Training
+
 Use Detecting Hidden:
+
 - Around buildings and areas
 - In dungeons
 - Near hiding spots
 - Repeatedly scan areas
 
 ### Training Tips
+
 - Macro in safe areas
 - Practice in towns
 - Train while farming
@@ -41,14 +46,17 @@ Use Detecting Hidden:
 ## Related Skills
 
 **Counter To:**
+
 - [Hiding](hiding.md) - Detect hidden players
 - [Stealth](stealth.md) - Reveal stealthed players
 
 **Synergy With:**
+
 - [Tracking](tracking.md) - Find then reveal
 - [Remove Trap](remove-trap.md) - Find traps
 
 **Anti-Stealth Template:**
+
 - Combat skills
 - **Detecting Hidden: 100** ⭐
 - [Tracking](tracking.md): 100
@@ -58,12 +66,14 @@ Use Detecting Hidden:
 ## PvP Applications
 
 ### Counter Stealth Tactics
+
 - Reveal hidden attackers
 - Prevent ambushes
 - Clear hiding spots
 - Protect group members
 
 ### Defense
+
 - Check for hidden enemies before casting
 - Reveal thieves near you
 - Secure areas
@@ -71,9 +81,8 @@ Use Detecting Hidden:
 ## PvM Uses
 
 ### Dungeon Exploration
-- Find hidden treasure
+
 - Detect trapped chests
-- Discover secrets
 
 ## Importance
 
@@ -83,6 +92,7 @@ Use Detecting Hidden:
 ---
 
 **Related Pages:**
+
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)
 - [Tracking](tracking.md)

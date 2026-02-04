@@ -12,7 +12,6 @@ Use bladed weapons effectively.
 
 - Longsword, Broadsword, Katana
 - Viking Sword, Cutlass, Scimitar
-- Two-handed: Halberd, Bardiche
 
 **Training:**
 
@@ -33,7 +32,7 @@ Mastery of piercing weapons.
 
 - Kryss, Dagger, War Fork
 - Spear, Pitchfork
-- Short Spear, Leafblade
+- Short Spear
 
 **Training:**
 Similar to Swordsmanship
@@ -54,8 +53,6 @@ Expertise with blunt weapons.
 
 **Training:**
 Similar to Swordsmanship
-
-**Special:** Some maces have special effects against undead
 
 **Pairs Well With:** Tactics, Anatomy, Healing, Parrying
 
@@ -87,7 +84,6 @@ Ranged combat with bows and crossbows.
 
 - Fight at range (safe)
 - Kiting ability
-- Poison arrows
 
 **Pairs Well With:** Tactics, Anatomy, Hiding, Tracking
 
@@ -122,13 +118,14 @@ Increases damage output in combat.
 **Effect:**
 
 - Damage bonus to all physical attacks
-- Scales with skill level
+- Formula: +0.625% damage per skill point (max +6.25% at 100)
+- In pre-AOS: Additional modifier at 50+ skill
 - Essential for all combat builds
 
 **Training:**
 
-- Gains during any combat
-- Passive skill improvement
+- Gains passively during any combat
+- Checked automatically on every hit
 
 **Importance:** ⭐⭐⭐⭐⭐ (Essential)
 
@@ -136,18 +133,19 @@ Increases damage output in combat.
 
 ### Anatomy
 
-Improves critical hit chance and healing.
+Improves damage output and healing effectiveness.
 
 **Effects:**
 
-- Increased critical hit damage
-- Better healing with bandages
-- Damage bonus
+- Damage bonus: +0.5% per skill point (max +5% at 100)
+- Better healing with bandages (increases heal amount)
+- Required for curing poison (60+ Anatomy, 60+ Healing)
+- Required for resurrection (80+ Anatomy, 80+ Healing)
 
 **Training:**
 
-- Gains during combat
-- Passive improvement
+- Gains passively during combat
+- Checked automatically on every hit
 
 **Importance:** ⭐⭐⭐⭐⭐ (Essential)
 
@@ -155,22 +153,25 @@ Improves critical hit chance and healing.
 
 ### Parrying
 
-Shield-based defense.
+Defensive skill for blocking attacks.
 
 **Effects:**
 
-- Block incoming attacks
-- Reduces damage taken
-- Active defense bonus
+- Block incoming melee attacks
+- Much more effective with a shield equipped
+- Can parry with weapons (much lower chance)
+- Shield parry: Up to 30% block chance at GM
+- Weapon parry: Very low chance
 
 **Requirements:**
 
-- Shield equipped
-- Combat skill
+- Shield (recommended) or weapon equipped
+- Cannot parry with fists or ranged weapons
 
 **Training:**
 
-- Take hits while holding shield
+- Gains when successfully blocking attacks
+- Being attacked while holding shield
 - Higher skill enemies = better gains
 
 **Importance:** ⭐⭐⭐⭐ (Very Important)
@@ -184,8 +185,9 @@ Use bandages to heal yourself and others.
 **Effects:**
 
 - Heal hit point damage
-- Cure poison (with Anatomy)
-- Resurrect players (with Anatomy)
+- Cure poison (requires 60+ Healing AND 60+ Anatomy)
+- Resurrect players (requires 80+ Healing AND 80+ Anatomy)
+- Heal amount scales with Healing and Anatomy
 
 **Training:**
 
@@ -196,8 +198,8 @@ Use bandages to heal yourself and others.
 
 **Requirements:**
 
-- Bandages
-- Anatomy skill (for best results)
+- Bandages in backpack
+- Anatomy skill strongly recommended
 
 **Importance:** ⭐⭐⭐⭐⭐ (Essential)
 
@@ -229,15 +231,21 @@ Many weapons have special attacks:
 
 **Common Specials:**
 
-- **Armor Ignore** - Bypass armor
-- **Concussion Blow** - Reduce mana
+- **Armor Ignore** - Bypass physical resistance (90% damage)
+- **Bleed Attack** - Cause bleeding damage over time
+- **Concussion Blow** - Reduce target's mana
 - **Crushing Blow** - Extra damage
 - **Disarm** - Remove opponent's weapon
-- **Double Strike** - Hit twice
-- **Paralyzing Blow** - Temporarily paralyze
+- **Dismount** - Knock opponent off mount
+- **Double Strike** - Strike twice quickly
+- **Infectious Strike** - Reduce healing effectiveness
+- **Mortal Strike** - Prevent healing temporarily
+- **Paralyzing Blow** - Freeze target (3-6 seconds)
+- **Shadow Strike** - Damage ignores armor
+- **Whirlwind Attack** - Hit all nearby enemies
 
 !!! info "Using Specials"
-    Special moves consume stamina or mana. Check your client's special moves book or icon.
+    Special moves consume mana. Primary weapon abilities require 70 skill, secondary abilities require 90 skill and 90 Tactics.
 
 ## Combat Strategies
 
@@ -265,9 +273,9 @@ Many weapons have special attacks:
 
 **Advanced:**
 
-- Pre-poisoning arrows
 - Target switching
 - Hiding between shots
+- Kiting techniques
 
 ## Equipment Considerations
 

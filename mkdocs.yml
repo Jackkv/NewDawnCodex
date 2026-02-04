@@ -113,6 +113,7 @@ nav:
     - Combat System: game-mechanics/combat.md
     - Crafting: game-mechanics/crafting.md
     - Currencies: game-mechanics/currencies.md
+    - Housing: game-mechanics/housing.md
     - Magic System: game-mechanics/magic.md
     - PvP & Murder:
       - game-mechanics/pvp/index.md
@@ -151,10 +152,7 @@ nav:
         - Inscription: game-mechanics/skills/inscription.md
         - Magery: game-mechanics/skills/magery.md
         - Meditation: game-mechanics/skills/meditation.md
-        - Overview: game-mechanics/skills/magic.md
         - Spirit Speak: game-mechanics/skills/spirit-speak.md
-      - Misc:
-        - Overview: game-mechanics/skills/misc.md
       - Resource Gathering:
         - Fishing: game-mechanics/skills/fishing.md
         - Lumberjacking: game-mechanics/skills/lumberjacking.md

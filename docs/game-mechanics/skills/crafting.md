@@ -37,7 +37,7 @@ Forge metal weapons and armor.
 - 50-70: Make plate armor
 - 70-100: Exceptional items, rare materials
 
-**Pairs Well With:** Mining, Tinkering, Arms Lore
+**Pairs Well With:** Mining, Tinkering
 
 ---
 
@@ -71,7 +71,7 @@ Create cloth and leather armor and clothing.
 - 50-70: Studded leather
 - 70-100: Exceptional items
 
-**Pairs Well With:** Camping, Arms Lore
+**Pairs Well With:**
 
 ---
 
@@ -244,7 +244,6 @@ Identify and assess equipment quality.
 **Effects:**
 
 - Determine weapon/armor quality
-- Better repairs (reduces durability loss)
 - Estimate damage ranges
 - Identify exceptional items
 
@@ -252,8 +251,6 @@ Identify and assess equipment quality.
 
 - Use skill on weapons and armor
 - Gains during identification
-
-**Importance:** ⭐⭐⭐⭐ (Very Important for crafters)
 
 ---
 
@@ -284,8 +281,6 @@ Extract ore and gems from mountains.
 
 - Iron ore
 - Colored ores (if available)
-- Gems
-- Granite
 
 **Training:**
 
@@ -357,7 +352,6 @@ Most crafters can repair their creations:
 - Blacksmithy: 100
 - Mining: 100
 - Tinkering: 100
-- Arms Lore: 100
 - Magery: 80
 - Meditation: 80
 - Resisting Spells: 40
@@ -366,7 +360,6 @@ Most crafters can repair their creations:
 
 - Tailoring: 100
 - Tinkering: 100
-- Arms Lore: 100
 - Magery: 80
 - Meditation: 80
 - Resisting Spells: 80
@@ -398,6 +391,7 @@ Most crafters can repair their creations:
 ### Setting Prices
 
 Consider:
+
 - Material cost
 - Time investment
 - Exceptional quality bonus

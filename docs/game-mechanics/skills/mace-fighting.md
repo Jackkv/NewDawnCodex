@@ -11,19 +11,25 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 ## Weapons
 
 ### One-Handed Maces
+
 - Mace
 - War Mace
 - Maul
 - Club
 
 ### Heavy Weapons
+
 - War Hammer
 - Hammer Pick
 
 ### Axes (Blunt Category)
+
 - War Axe
 
 ## Training
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 ### Early Training (0-30)
 
@@ -32,16 +38,19 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 - Practice swings
 
 ### Intermediate (30-50)
+
 - Weak monsters (ettins, orcs)
 - Real combat experience
 - Learn enemy patterns
 
 ### Advanced (50-70)
+
 - Mid-level monsters (trolls, ogres)
 - Group hunts
 - Build combat confidence
 
 ### Master Level (70-100)
+
 - Strong monsters (dragons, demons)
 - Undead hunting with bonuses
 - PvP mastery
@@ -49,43 +58,25 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 ## Related Skills
 
 **Essential Pairs:**
+
 - [Tactics](tactics.md) - Increase damage
 - [Anatomy](anatomy.md) - Critical strikes
 - [Healing](healing.md) - Stay alive
 - [Parrying](parrying.md) - Shield defense
 
 **Recommended:**
+
 - [Resisting Spells](resisting-spells.md) - Magic protection
 
 ## Special Advantages
 
-### Undead Bonus
-Some maces deal extra damage to undead:
-- Liches
-- Zombies
-- Skeletons
-- Bone demons
-
-!!! tip "Undead Hunting"
-    Bring a mace to graveyards and undead dungeons for significant damage bonuses!
-
-### Crushing Power
-Blunt weapons excel at:
-- Breaking through armor
-- Stunning attacks
-- Area damage effects
-
-## Weapon Special Moves
-
-Mace special abilities:
-- **Crushing Blow** - Massive damage spike
-- **Concussion Blow** - Drain target's mana
-- **Disarm** - Remove opponent's weapon
-- **Whirlwind Attack** - AoE damage
-
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Mace Warrior
+
 - Mace Fighting: 100
 - Tactics: 100
 - Anatomy: 100
@@ -94,15 +85,6 @@ Mace special abilities:
 - Resisting Spells: 100
 - Magery: 100
 
-### Undead Slayer
-- Mace Fighting: 100
-- Tactics: 100
-- Anatomy: 100
-- Healing: 100
-- Chivalry: 100
-- Resisting Spells: 100
-- Focus: 100
-
 ## Importance
 
 ⭐⭐⭐⭐⭐ (Essential for mace warriors)
@@ -110,6 +92,7 @@ Mace special abilities:
 ---
 
 **Related Pages:**
+
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
 - [World Dungeons](../../world/dungeons/index.md)

@@ -6,14 +6,6 @@ Creating the perfect character in New Dawn requires understanding stats, skills,
 
 ### Stat Allocation
 
-You start with **80 stat points** to distribute among three attributes:
-
-| Stat         | Abbreviation | Affects                                     | Recommended Starting Range |
-| ------------ | ------------ | ------------------------------------------- | -------------------------- |
-| Strength     | STR          | Hit Points, Melee Damage, Carrying Capacity | 45-60                      |
-| Dexterity    | DEX          | Stamina, Swing Speed, Defense               | 10-25                      |
-| Intelligence | INT          | Mana, Magic Effectiveness                   | 10-25                      |
-
 !!! tip "Stat Caps" - Individual stat cap: 100 - Total stat cap: 225 (you can raise stats beyond starting values)
 
 ### Skill Selection
@@ -24,6 +16,9 @@ You have **700 total skill points** that can be distributed across many skills:
 - Skills increase through use
 
 ## Popular Templates
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 Here are a few popular character templates to get you started:
 

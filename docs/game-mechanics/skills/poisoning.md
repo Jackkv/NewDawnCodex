@@ -11,13 +11,15 @@ Poisoning allows you to apply various levels of poison to weapons or enhance the
 ## Effects
 
 ### Weapon Poisoning
+
 - Apply poison to melee weapons
-- Apply poison to arrows/bolts
 - Poison level depends on skill
-- Poison charges consume over time
+- Poison charges consume on hit
 
 ### Spell Enhancement
+
 If using poison spells ([Magery](magery.md)):
+
 - Increased poison level
 - Longer poison duration
 - Better success rate
@@ -32,17 +34,23 @@ If using poison spells ([Magery](magery.md)):
 
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Early (0-30)
+
 - Apply lesser poison to weapons
 - Practice on your own weapons
 - Low-cost training
 
 ### Intermediate (30-60)
+
 - Apply stronger poisons
 - Practice with regular poison
 - More expensive
 
 ### Advanced (60-100)
+
 - Greater and deadly poison
 - Expensive reagents
 - Macro training recommended
@@ -53,6 +61,7 @@ If using poison spells ([Magery](magery.md)):
 ## Requirements
 
 ### Materials
+
 - **Poison Potions** - From [Alchemy](crafting.md#alchemy) or vendors
 - **Weapons** - To apply poison to
 - **Empty Bottles** - For creating poisons (if crafting)
@@ -60,11 +69,13 @@ If using poison spells ([Magery](magery.md)):
 ## Related Skills
 
 **Perfect Pairs:**
+
 - [Fencing](fencing.md) - Fast weapons = more poison applications
 - [Archery](archery.md) - Poison from safe distance
 - [Magery](magery.md) - Poison spell enhancement
 
 **Support Skills:**
+
 - [Alchemy](crafting.md#alchemy) - Create poison potions
 - [Tactics](tactics.md) - Damage
 - [Anatomy](anatomy.md) - Critical hits
@@ -72,25 +83,25 @@ If using poison spells ([Magery](magery.md)):
 ## Combat Strategy
 
 ### Melee Poisoning
+
 1. Apply poison to weapon before combat
 2. Hit enemy to apply poison
 3. Fast weapons apply poison more reliably
 4. Poison wears down enemy HP over time
 
-### Ranged Poisoning
-1. Apply poison to arrows/bolts
-2. Shoot from safe distance
-3. Poison damages while you kite
-4. Very effective strategy
-
 ### Poison Stacking
+
 - Poison doesn't stack
 - Higher level poison overwrites lower
 - Time poison applications strategically
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Poison Fencer
+
 - [Fencing](fencing.md): 100
 - **Poisoning: 100** ⭐
 - [Tactics](tactics.md): 100
@@ -99,16 +110,8 @@ If using poison spells ([Magery](magery.md)):
 - [Resisting Spells](resisting-spells.md): 100
 - [Magery](magery.md): 100
 
-### Poison Archer
-- [Archery](archery.md): 100
-- **Poisoning: 100** ⭐
-- [Tactics](tactics.md): 100
-- [Anatomy](anatomy.md): 100
-- Hiding: 100
-- Tracking: 100
-- [Magery](magery.md): 100
-
 ### Poison Mage
+
 - [Magery](magery.md): 100
 - [Evaluating Intelligence](evaluating-intelligence.md): 100
 - **Poisoning: 100** ⭐
@@ -120,6 +123,7 @@ If using poison spells ([Magery](magery.md)):
 ## PvP Effectiveness
 
 In PvP, poisoning is powerful:
+
 - Continuous damage over time
 - Forces enemy to cure or take damage
 - Disrupts healing timing
@@ -128,6 +132,7 @@ In PvP, poisoning is powerful:
 ## PvM Usage
 
 For monster hunting:
+
 - Additional DPS source
 - Wear down tough monsters
 - Works while kiting
@@ -136,6 +141,7 @@ For monster hunting:
 ## Economic Aspect
 
 ### Poison Potions
+
 - Buy from [Alchemy](crafting.md#alchemy) vendors
 - Create with Alchemy skill
 - Stock up for adventures
@@ -149,6 +155,7 @@ For monster hunting:
 ---
 
 **Related Pages:**
+
 - [Combat Skills](index.md#combat-skills)
 - [Fencing](fencing.md)
 - [Archery](archery.md)

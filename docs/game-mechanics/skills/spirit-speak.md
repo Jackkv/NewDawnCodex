@@ -2,26 +2,36 @@
 
 # Spirit Speak
 
-Alternative mana regeneration and spiritual communication.
+Spiritual communication, and spirit summoning.
 
 ## Overview
 
-Spirit Speak provides an alternative method of mana regeneration that works while moving and wearing any armor type. Originally designed for Necromancers, it's also useful for battle mages who need mana regen in heavy armor.
+Spirit Speak is essential for the **Spirit Summoner** build, where it enhances summoned creatures' duration, dispel resistance, and healing effectiveness.
 
 ## Effects
 
 ### Mana Regeneration
 
-- **Active Mana Regen** - Regenerate mana over time
 - **Works While Moving** - No need to stand still
 - **Any Armor** - Functions in plate armor
-- **Channeling** - Sustained regeneration effect
 
 ### Spiritual Communication
 
 - Talk to ghosts and spirits
 - Communicate with the dead
 - Lore and roleplay value
+
+### Spirit Summoner Bonuses
+
+When used with the **Spirit Summoner** system:
+
+- **Summon Duration** - Higher Spirit Speak increases how long summons last
+- **Dispel Resistance** - Harder for enemies to dispel your spirit summons
+- **Healing Bonus** - Active Spirit Speak boosts healing on spirit summons
+- **Synergy with Animal Lore** - Summon strength scales with [Animal Lore](animal-lore.md)
+
+!!! info "Spirit Summoner Scaling"
+    The power of your spirit summons (stats, skills, armor) scales based on **[Animal Lore](animal-lore.md)** skill, while **Spirit Speak** determines duration, dispel resistance, and healing effectiveness when active.
 
 ## How It Works
 
@@ -41,32 +51,57 @@ Spirit Speak provides an alternative method of mana regeneration that works whil
 
 ## Training
 
-### With Corpses
-
-Most effective training method:
-
-- Stand near corpses
-- Use Spirit Speak skill
-- Success rate improves with skill
-- Dungeons have plenty of corpses
-
-### Without Corpses
-
 - Can be used anywhere
 - Lower success rate
 - Slower skill gains
 - Still functions for mana
 
-!!! tip "Training Location"
-    Train in graveyards or dungeons where corpses are plentiful for best skill gains!
+## Spirit Summoner System
+
+### 8th Circle Summons
+
+Spirit Summoner 8th circle summons have been significantly enhanced:
+
+- **Enhanced Base Stats** - All 8th circle summons have increased base stats and skills
+- **Meditation** - 8th circle spirit summons have the Meditation skill
+- **Improved Following** - Faster follow speed and increased follow distance
+- **Dispel Protection** - Fixed issues where mobs could instantly dispel summons
+
+### Healing Spirit Summons
+
+When healing your spirit summons:
+
+- Cast Heal or Greater Heal on your spirit summon
+- If Spirit Speak is **active**, you gain a healing bonus
+- Bonus amount scales with your Spirit Speak skill
+- Works with both Heal and Greater Heal spells
+
+### Scaling Mechanics
+
+**[Animal Lore](animal-lore.md)** determines:
+
+- ✅ Base stats scaling
+- ✅ Skills scaling  
+- ✅ Armor rating
+- ✅ Overall summon power
+
+**Spirit Speak** determines:
+
+- ✅ Summon duration
+- ✅ Dispel resistance
+- ✅ Healing bonus (when active)
+
+!!! tip "Balanced Build"
+    For optimal Spirit Summoner performance, invest in both Spirit Speak and [Animal Lore](animal-lore.md) to maximize both summon strength and utility!
 
 ## Related Skills
 
-**For Necromancers:**
+**For Spirit Summoners:**
 
-- Necromancy (if available)
-- Magery
-- [Resisting Spells](resisting-spells.md)
+- **Spirit Speak** - Duration, dispel resistance, healing
+- [Animal Lore](animal-lore.md) - Summon power scaling
+- [Magery](magery.md) - Summoning and healing spells
+- [Veterinary](veterinary.md) - Additional healing option
 
 **For Battle Mages:**
 
@@ -75,36 +110,20 @@ Most effective training method:
 - [Tactics](tactics.md) - Damage
 - **Spirit Speak** - Mana regen in armor
 
-## Comparison to Meditation
-
-### Spirit Speak Advantages
-
-- ✅ Works in any armor (including plate)
-- ✅ Can move while regenerating
-- ✅ Use during combat
-- ✅ Flexible for hybrids
-
-### Spirit Speak Disadvantages
-
-- ❌ Slower regeneration rate
-- ❌ Limited by cooldown
-- ❌ Takes skill slot
-- ❌ Requires activation
-
-### Meditation Advantages
-
-- ✅ Faster regeneration
-- ✅ Constant availability
-- ✅ Standard mage skill
-
-### Meditation Disadvantages
-
-- ❌ Must stand still
-- ❌ Leather armor only
-- ❌ Interrupted by damage
-- ❌ Can't use during combat
-
 ## Character Templates
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
+### Spirit Summoner
+
+- [Magery](magery.md): 100
+- **Spirit Speak: 100** ⭐
+- [Animal Lore](animal-lore.md): 100 ⭐
+- [Veterinary](veterinary.md): 100
+- [Meditation](meditation.md): 100
+- [Resisting Spells](resisting-spells.md): 100
+- [Evaluating Intelligence](evaluating-intelligence.md): 100
 
 ### Battle Mage with Spirit Speak
 
@@ -116,75 +135,51 @@ Most effective training method:
 - [Resisting Spells](resisting-spells.md): 100
 - [Anatomy](anatomy.md): 100
 
-### Necromancer (if Necromancy available)
-
-- Necromancy: 100
-- **Spirit Speak: 100** ⭐
-- [Magery](magery.md): 100
-- [Meditation](meditation.md): 100
-- [Resisting Spells](resisting-spells.md): 100
-- [Evaluating Intelligence](evaluating-intelligence.md): 100
-
 ## Use Cases
 
 ### Best For
 
+- **Spirit Summoner builds** (essential)
 - Battle mages in plate armor
 - Necromancers
 - Hybrid warrior/mage builds
 - Players who need mobile mana regen
+- Summoner playstyles with [Animal Lore](animal-lore.md)
 
 ### Not Ideal For
 
 - Pure mages ([Meditation](meditation.md) is better)
 - Builds that need 700 skill points elsewhere
-- Leather armor users
+- Tamer builds without summoning focus
 
 ## PvP Considerations
 
 In PvP, Spirit Speak allows:
 
-- Mana regen while wearing plate armor
-- Mobility during regeneration
-- Sustained spellcasting in melee range
 - Flexibility in combat
 
 ## PvM Benefits
 
 For hunting:
 
-- Regen mana while kiting
-- Maintain mana pool in armor
-- Hybrid playstyle support
+- Hybrid tamer playstyle support
 - Continuous spell access
 
 ## Importance
 
+⭐⭐⭐⭐⭐ (Essential for Spirit Summoners)
 ⭐⭐⭐⭐ (Essential for Necromancers)
 ⭐⭐⭐ (Useful for battle mages)
 ⭐⭐ (Limited use for pure mages)
-
-## When to Choose
-
-Choose Spirit Speak if:
-
-- Playing Necromancer (required)
-- Using plate armor on mage
-- Want mobile mana regeneration
-- Playing hybrid warrior/mage
-
-Choose [Meditation](meditation.md) if:
-
-- Pure mage build
-- Using leather armor
-- Want fastest mana regen
-- Following traditional mage path
 
 ---
 
 **Related Pages:**
 
+- [Spirit Summoner System](../../custom-systems/spirit-summoner.md)
+- [Animal Lore](animal-lore.md)
 - [Magic Skills Overview](index.md#magic-skills)
 - [Meditation](meditation.md)
 - [Magery](magery.md)
+- [Veterinary](veterinary.md)
 - [Combat System](../combat.md)

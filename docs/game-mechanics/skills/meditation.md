@@ -11,13 +11,16 @@ Meditation allows mages to actively regenerate mana at an accelerated rate. This
 ## Effects
 
 ### Mana Regeneration
+
 - **Active Regen** - Regenerate mana while meditating
 - **Faster Recovery** - Much faster than passive regen
 - **Sustained Casting** - Cast more spells in sequence
 - **Essential for Mages** - Core skill for any caster
 
 ### Regen Rate
+
 Mana regeneration speed depends on:
+
 - Meditation skill level
 - Intelligence stat
 - Equipment bonuses
@@ -26,14 +29,18 @@ Mana regeneration speed depends on:
 ## Requirements
 
 ### To Meditate Successfully
+
 - Must be stationary (not moving)
 - Cannot be actively casting
 - **Cannot wear metal armor** (critical restriction)
-- Must have room to regenerate (not at max mana)
 
 ### Armor Restrictions
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 - ✅ Leather armor - Meditation works
-- ✅ Studded leather - Meditation works (usually)
+- ✅ Studded leather - Meditation works
 - ❌ Ringmail - Blocks meditation
 - ❌ Chainmail - Blocks meditation
 - ❌ Plate armor - Blocks meditation
@@ -44,7 +51,9 @@ Mana regeneration speed depends on:
 ## Training
 
 ### Active Meditation
+
 Use the meditation skill when mana is below maximum:
+
 - Cast spells to drain mana
 - Use meditation skill
 - Wait for mana to regenerate
@@ -53,6 +62,7 @@ Use the meditation skill when mana is below maximum:
 ### Training Method
 
 **Fastest Training:**
+
 1. Cast expensive spells (Energy Vortex, Flamestrike)
 2. Use Meditation skill
 3. Wait for mana to regenerate
@@ -60,6 +70,7 @@ Use the meditation skill when mana is below maximum:
 5. Repeat until 100
 
 **Passive Training:**
+
 - Gains naturally while hunting
 - Meditate between combats
 - Automatic improvement over time
@@ -70,29 +81,24 @@ Use the meditation skill when mana is below maximum:
 ## Related Skills
 
 **Essential Mage Trio:**
+
 - [Magery](magery.md) - Cast spells (uses mana)
 - [Evaluating Intelligence](evaluating-intelligence.md) - Damage boost
 - **Meditation: 100** ⭐ - Mana regeneration
 
-**Full Mage Build:**
-- Magery: 100
-- Evaluating Intelligence: 100
-- **Meditation: 100** ⭐
-- Resisting Spells: 100
-- Wrestling: 100
-- Inscription: 80
-- Poisoning: 40
-
 ## Meditation Mechanics
 
 ### When to Meditate
+
 - After casting several spells
 - Before entering combat
 - Between monster fights
 - While traveling safely
 
 ### Interruptions
+
 Meditation is interrupted by:
+
 - Taking damage
 - Moving
 - Beginning to cast a spell
@@ -100,7 +106,11 @@ Meditation is interrupted by:
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Pure Mage (PvM)
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - **Meditation: 100** ⭐
@@ -110,6 +120,7 @@ Meditation is interrupted by:
 - Poisoning: 40
 
 ### PvP Mage
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - **Meditation: 100** ⭐
@@ -119,6 +130,7 @@ Meditation is interrupted by:
 - Alchemy: 100
 
 ### Support Mage
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - **Meditation: 100** ⭐
@@ -130,6 +142,7 @@ Meditation is interrupted by:
 ## Without Meditation
 
 Mage without Meditation:
+
 - ❌ Very slow mana regeneration
 - ❌ Long waits between fights
 - ❌ Inefficient hunting
@@ -138,22 +151,16 @@ Mage without Meditation:
 ## With 100 Meditation
 
 Mage with 100 Meditation:
+
 - ✅ Fast mana recovery
 - ✅ Continuous spell casting
 - ✅ Efficient hunting
 - ✅ Ready for PvP instantly
 
-## Alternative: Focus
-
-Some builds use Focus instead:
-- Focus regenerates mana while moving
-- Works in any armor type
-- Lower regeneration rate
-- Better for battle mages
-
 ## PvP Importance
 
 In PvP, Meditation is crucial:
+
 - Quick mana recovery between fights
 - Be ready for next engagement
 - Sustain longer battles
@@ -162,6 +169,7 @@ In PvP, Meditation is crucial:
 ## PvM Importance
 
 For monster hunting:
+
 - Continuous casting
 - Chain farm monsters
 - No downtime waiting
@@ -170,6 +178,7 @@ For monster hunting:
 ## Battle Mages
 
 Warriors who use magic for utility:
+
 - Often skip Meditation
 - Use Focus instead
 - Can wear plate armor
@@ -183,6 +192,7 @@ Warriors who use magic for utility:
 ---
 
 **Related Pages:**
+
 - [Magic Skills Overview](index.md#magic-skills)
 - [Magery](magery.md)
 - [Evaluating Intelligence](evaluating-intelligence.md)

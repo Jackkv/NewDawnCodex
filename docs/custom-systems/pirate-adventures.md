@@ -259,4 +259,3 @@ For detailed changes, see the [patch notes](../patchnotes.md).
 
 - [Currencies](../game-mechanics/currencies.md) - Pirate currency and rewards
 - [Achievements](achievements.md) - Pirate-related achievements
-- [Treasure Hunting](../game-mechanics/skills/misc.md) - Related treasure map system

@@ -11,19 +11,24 @@ Carpentry allows you to create a variety of wooden items including furniture, co
 ## Effects
 
 ### Furniture Crafting
+
 Create household items:
+
 - Chairs, tables, benches
 - Chests and containers
 - Decorative items
 - House addons
 
 ### Instrument Crafting
+
 Make musical instruments:
+
 - Lutes, drums, tambourines
 - Harps and standing harps
 - Required for bard skills
 
 ### Special Items
+
 - Wooden shields
 - Staves
 - Training dummies
@@ -31,21 +36,25 @@ Make musical instruments:
 ## Training
 
 ### Early (0-30)
+
 - Buy boards from NPC
 - Craft small items
 - Make wooden boxes
 
 ### Intermediate (30-60)
+
 - Create furniture
 - Make instruments
 - Craft decorations
 
 ### Advanced (60-85)
+
 - Craft house addons
 - Make exceptional furniture
 - Use special wood types
 
 ### Master (85-100)
+
 - Master craftsman
 - Exceptional items regularly
 - Rare wood specializations
@@ -53,9 +62,11 @@ Make musical instruments:
 ## Materials
 
 ### Tools
+
 - **Carpentry Tools** - Required for all carpentry
 
 ### Resources
+
 - Logs and boards
 - Special wood types (if available)
 - Nails (from Tinkering)
@@ -63,13 +74,16 @@ Make musical instruments:
 ## Related Skills
 
 **Essential:**
+
 - [Lumberjacking](lumberjacking.md) - Gather wood ⭐⭐⭐⭐
 
 **Recommended:**
+
 - [Tinkering](tinkering.md) - Make tools and nails
 - [Musicianship](musicianship.md) - Use instruments you craft
 
 **Carpenter Template:**
+
 - Carpentry: 100
 - Lumberjacking: 100
 - Tinkering: 50
@@ -79,10 +93,12 @@ Make musical instruments:
 ## Crafting Quality
 
 ### Normal Items
+
 - Standard quality
 - Basic appearance
 
 ### Exceptional Items
+
 - Higher quality
 - Better appearance
 - Increased value
@@ -91,12 +107,14 @@ Make musical instruments:
 ## Economic Value
 
 ### High Demand Items
+
 - Musical instruments for bards
 - House furniture and decorations
 - Storage containers
 - House addons
 
 ### Profit Sources
+
 - Custom furniture orders
 - Instrument sales to bards
 - Decoration services
@@ -109,6 +127,7 @@ Make musical instruments:
 ---
 
 **Related Pages:**
+
 - [Lumberjacking](lumberjacking.md)
 - [Musicianship](musicianship.md)
 - [Crafting Skills](crafting.md)

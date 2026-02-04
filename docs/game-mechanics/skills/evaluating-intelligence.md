@@ -6,36 +6,43 @@ Increases magic damage and spell effectiveness.
 
 ## Overview
 
-Evaluating Intelligence (commonly called "Eval Int" or "EI") is the magic equivalent of Tactics. It significantly boosts spell damage and improves spell success rates, making it essential for all combat mages.
+Evaluating Intelligence (commonly called "Eval Int") is the magic equivalent of Tactics. It significantly boosts spell damage and improves spell success rates, making it essential for all combat mages.
 
 ## Effects
 
 ### Magic Damage Boost
+
 - Directly increases spell damage
 - Scales with skill level
 - Applies to all offensive spells
 - Major impact on magic DPS
 
 ### Spell Effectiveness
+
 - Better spell success rate
 - More consistent damage
 - Improved spell interactions
 
 ### Defensive Benefit
+
 - Minor defensive bonus against spells
 - Helps resist some magical effects
 
 ## Training
 
 ### Active Training
+
 Use the Evaluating Intelligence skill:
+
 - Target creatures and monsters
 - Examine their intelligence
 - Gains from successful evaluations
 - Can macro on training dummies
 
 ### Passive Training
+
 Gains during spell combat:
+
 - Cast offensive spells at enemies
 - Fight with magic
 - PvP mage combat
@@ -47,11 +54,13 @@ Gains during spell combat:
 ## Related Skills
 
 **Always Paired With:**
+
 - [Magery](magery.md) - Primary spellcasting
 - [Meditation](meditation.md) - Mana regeneration
 - [Resisting Spells](resisting-spells.md) - Magic defense
 
 **Full Mage Package:**
+
 - Magery: 100
 - **Evaluating Intelligence: 100** ⭐
 - Meditation: 100
@@ -59,16 +68,10 @@ Gains during spell combat:
 
 ## Damage Calculation
 
-Magic damage formula includes:
-- Base spell damage
-- + Magery skill bonus
-- + **Eval Int bonus** ⭐
-- + Inscription bonus (if applicable)
-- = Total spell damage
-
 ## Impact on Spells
 
 ### All Offensive Spells Boosted
+
 - Magic Arrow
 - Fireball
 - Lightning
@@ -78,15 +81,13 @@ Magic damage formula includes:
 - Chain Lightning
 - Earthquake
 
-### Summoned Creatures
-May also affect:
-- Blade Spirits damage
-- Energy Vortex power
-- Elemental summon strength
-
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Pure Mage (PvM)
+
 - Magery: 100
 - **Evaluating Intelligence: 100** ⭐
 - Meditation: 100
@@ -96,6 +97,7 @@ May also affect:
 - Poisoning: 40
 
 ### PvP Mage
+
 - Magery: 100
 - **Evaluating Intelligence: 100** ⭐
 - Meditation: 100
@@ -105,6 +107,7 @@ May also affect:
 - Alchemy: 100
 
 ### Bard Mage
+
 - Magery: 100
 - **Evaluating Intelligence: 100** ⭐
 - Musicianship: 100
@@ -113,25 +116,10 @@ May also affect:
 - Resisting Spells: 100
 - Wrestling: 100
 
-## Without Eval Int
-
-Mage without Evaluating Intelligence:
-- ❌ Significantly reduced damage
-- ❌ Slower monster kills
-- ❌ Weak in PvP
-- ❌ Inefficient hunting
-
-## With 100 Eval Int
-
-Mage with 100 Evaluating Intelligence:
-- ✅ Maximum spell damage
-- ✅ Efficient monster farming
-- ✅ Competitive in PvP
-- ✅ Reliable spell casting
-
 ## PvP Importance
 
 In PvP combat, Eval Int is CRITICAL:
+
 - Maximum burst damage
 - Kill enemies before they escape
 - Competitive damage output
@@ -140,6 +128,7 @@ In PvP combat, Eval Int is CRITICAL:
 ## PvM Importance
 
 For monster hunting:
+
 - Faster kills = more loot
 - Better resource efficiency
 - Solo dangerous monsters
@@ -154,6 +143,7 @@ Never skip Evaluating Intelligence on a mage build!
 ## Training Priority
 
 For mage characters:
+
 1. Train Magery first (need spells)
 2. **Train Eval Int early** (for damage)
 3. Add Meditation (for mana)
@@ -162,6 +152,7 @@ For mage characters:
 ## Alternative Uses
 
 Some niche uses:
+
 - Identify creature intelligence
 - Examine magical beings
 - Lore knowledge (roleplay)
@@ -169,6 +160,7 @@ Some niche uses:
 ---
 
 **Related Pages:**
+
 - [Magic Skills Overview](index.md#magic-skills)
 - [Magery](magery.md)
 - [Meditation](meditation.md)
