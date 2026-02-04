@@ -11,13 +11,16 @@ Hiding allows you to become invisible, avoiding detection by players and monster
 ## Effects
 
 ### Invisibility
+
 - Become invisible to others
 - Avoid monster aggression
 - Escape dangerous situations
 - Scout safely
 
 ### Breaking Hide
+
 Hide breaks when you:
+
 - Move (without Stealth)
 - Attack or cast spells
 - Use most skills
@@ -26,12 +29,15 @@ Hide breaks when you:
 ## Training
 
 ### Active Training
+
 Use Hiding skill:
+
 - Repeatedly hide
 - Practice anywhere
 - Gains on each attempt
 
 ### Passive Training
+
 - Use while adventuring
 - Hide during combat downtime
 - Escape dangerous situations
@@ -42,14 +48,17 @@ Use Hiding skill:
 ## Related Skills
 
 **Essential Combination:**
+
 - [Stealth](stealth.md) - Move while hidden ⭐⭐⭐⭐⭐
 
 **Stealth Skills:**
+
 - [Stealing](stealing.md) - Thief builds
 - [Snooping](snooping.md) - Scout and steal
 - [Detecting Hidden](detecting-hidden.md) - Counter (for awareness)
 
 **Stealth Template:**
+
 - Hiding: 100
 - [Stealth](stealth.md): 100
 - [Stealing](stealing.md): 100
@@ -61,18 +70,21 @@ Use Hiding skill:
 ## Uses
 
 ### PvM (Player vs Monster)
+
 - Avoid monster aggression
 - Scout dangerous areas
 - Escape when overwhelmed
 - Safe positioning
 
 ### PvP (Player vs Player)
+
 - Ambush tactics
 - Escape from fights
 - Scout enemy positions
 - Avoid detection
 
 ### Thievery
+
 - Hide after stealing
 - Approach targets unseen
 - Escape after theft
@@ -80,6 +92,7 @@ Use Hiding skill:
 ## Counters
 
 ### Detection Methods
+
 - [Detecting Hidden](detecting-hidden.md) - Direct counter
 - Area spells reveal hidden players
 - Tracking can find general location
@@ -87,7 +100,11 @@ Use Hiding skill:
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Stealth Scout
+
 - Hiding: 100
 - [Stealth](stealth.md): 100
 - [Detecting Hidden](detecting-hidden.md): 100
@@ -95,6 +112,7 @@ Use Hiding skill:
 - Combat skills
 
 ### Thief
+
 - Hiding: 100
 - [Stealth](stealth.md): 100
 - [Stealing](stealing.md): 100
@@ -109,6 +127,7 @@ Use Hiding skill:
 ---
 
 **Related Pages:**
+
 - [Stealth](stealth.md)
 - [Detecting Hidden](detecting-hidden.md)
 - [Stealing](stealing.md)

@@ -6,7 +6,7 @@ Connect with the New Dawn community on Discord.
 
 Our Discord server is the heart of the community:
 
-[:fontawesome-brands-discord: Join New Dawn Discord](https://discord.gg/uonewdawn)
+[:fontawesome-brands-discord: Join New Dawn Discord](https://discord.gg/AStx3wYAPj)
 
 ## Discord Channels
 

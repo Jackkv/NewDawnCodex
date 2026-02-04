@@ -61,7 +61,7 @@ Bonus damage vs. specific creature types:
 ### Blessed Items
 
 Never lost on death:
-- Runebooks (often)
+
 - Spellbooks (craftable)
 - Special clothing
 - Event items
@@ -71,6 +71,7 @@ Never lost on death:
 ### Artifacts
 
 Unique named items:
+
 - Special properties
 - Rare drops
 - Boss rewards

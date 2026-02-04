@@ -11,9 +11,9 @@ In Ultima Online, your character is defined by skills rather than classes. You h
 Skills are organized into several categories:
 
 - **[Combat Skills](combat.md)** - Weapon proficiencies and fighting
-- **[Magic Skills](magic.md)** - Spellcasting and magical abilities
+- **Magic Skills** - Spellcasting and magical abilities
 - **[Crafting Skills](crafting.md)** - Creating items and equipment
-- **[Miscellaneous Skills](misc.md)** - Utility, social, and other skills
+- **Miscellaneous Skills** - Utility, social, and other skills
 
 ## How Skills Work
 
@@ -51,7 +51,9 @@ Control how skills change:
 Common skill combinations for specific roles:
 
 ### Warrior
+
 Core combat skills:
+
 - Weapon Skill (100)
 - Tactics (100)
 - Anatomy (100)
@@ -60,7 +62,9 @@ Core combat skills:
 - Resisting Spells (80-100)
 
 ### Mage
+
 Magical specialist:
+
 - Magery (100)
 - Evaluating Intelligence (100)
 - Meditation (100)
@@ -69,7 +73,9 @@ Magical specialist:
 - Inscription (80-100)
 
 ### Crafter
+
 Item creation focus:
+
 - Crafting Skill (100)
 - Related Skills (100)
 - Magery (80)
@@ -83,6 +89,7 @@ Item creation focus:
 Weapon skills and combat support abilities for warriors and fighters.
 
 #### Weapon Skills
+
 - **[Swordsmanship](swordsmanship.md)** - Master bladed weapons
 - **[Fencing](fencing.md)** - Excel with piercing weapons
 - **[Mace Fighting](mace-fighting.md)** - Wield blunt weapons effectively
@@ -90,6 +97,7 @@ Weapon skills and combat support abilities for warriors and fighters.
 - **[Wrestling](wrestling.md)** - Unarmed combat and mage defense
 
 #### Support Skills
+
 - **[Tactics](tactics.md)** ⭐ - Essential damage multiplier
 - **[Anatomy](anatomy.md)** ⭐ - Critical hits and healing bonus
 - **[Healing](healing.md)** ⭐ - Bandage yourself and others
@@ -113,8 +121,6 @@ Spellcasting and magical abilities for mages and spellcasters.
 
 - **[Inscription](inscription.md)** - Scribe scrolls, increase damage
 - **[Spirit Speak](spirit-speak.md)** - Alternative mana regeneration
-
-[:octicons-arrow-right-24: View All Magic Skills](magic.md)
 
 ### Crafting Skills
 
@@ -183,77 +189,6 @@ Utility, stealth, animals, bard skills, and specialized abilities.
 - **Tracking** - Locate creatures and players
 - **Arms Lore** - Evaluate equipment (see [Crafting](#crafting-skills))
 - **Item Identification** - Identify magic items (see [Crafting](#crafting-skills))
-
-[:octicons-arrow-right-24: View All Misc Skills](misc.md)
-
-## Training Your Skills
-
-### Early Training (0-50)
-
-Skills gain quickly:
-
-- Use training dummies (combat)
-- Practice on weak creatures
-- Craft basic items
-- Use skill on yourself
-
-### Mid Training (50-80)
-
-Gains moderate:
-
-- Hunt appropriate monsters
-- Craft quality items
-- Join hunting groups
-- Use skill scrolls if available
-
-### Late Training (80-100)
-
-Gains are slow:
-
-- Champion spawns
-- Difficult monsters
-- Master crafting
-
-## Skill Management
-
-### Tips for Success
-
-!!! success "Best Practices"
-    - Focus on 5-7 core skills
-    - Keep related skills together
-    - Use skill locks effectively
-    - Don't spread points too thin
-    - Check skill caps regularly
-
-### Skill Stone/Ball
-
-Some servers offer items to:
-
-- Reset all skills
-- Copy skill template
-- Transfer between characters
-
-Check with staff about availability!
-
-## Skill Effects Summary
-
-### Passive Benefits
-
-Many skills provide passive bonuses:
-
-- **Anatomy** - Increases healing efficiency
-- **Tactics** - Improves damage output
-- **Arms Lore** - Better repairs
-- **Item ID** - See item properties
-
-### Active Abilities
-
-Some skills have special moves:
-
-- **Combat Skills** - Special weapon attacks
-- **Stealth** - Move hidden
-- **Stealing** - Take items from others
-- **Animal Taming** - Control creatures
 
 ## Related Pages
 

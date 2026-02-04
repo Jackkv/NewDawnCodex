@@ -14,29 +14,28 @@ Whether you're an explorer, fighter, crafter, or completionist, the achievement 
 
 Achievements award points based on difficulty:
 
-- **Easy achievements:** 10-25 points
-- **Medium achievements:** 50-100 points
-- **Hard achievements:** 150-300 points
-- **Ultra achievements:** 500+ points
+- **Basic achievements:** 1-5 points (discovery, simple tasks)
+- **Standard achievements:** 10 points (skill mastery, single completions)
+- **Tiered achievements:** Progressive points (5/10/25/50/100 for I/II/III/IV/V tiers)
 
-Points accumulate across your account and unlock rewards at various milestones.
+Points accumulate per character and track your progress toward various rewards.
 
 ### Tracking Progress
 
 Access the achievement system:
 
-- Type `[profile` or `[achievements` in-game
+- Type `[achievements` (or aliases: `[ach`, `[achievement`, `[achs`) in-game
 - View your current progress
 - See which achievements you've completed
-- Track partially completed achievements
+- Track partially completed achievements with progress bars
 - Check your total achievement points
 
-### Account-Wide Progress
+### Character Progress
 
-- Achievement points are account-wide
-- Progress on one character counts for all
-- Rewards can be claimed on any character
-- Encourages diverse gameplay across characters
+- Achievement progress is tracked per character
+- Each character has their own achievement progression
+- Points and completions are character-specific
+- Titles earned are added to that character's title collection
 
 ## Achievement Categories
 
@@ -44,69 +43,54 @@ Access the achievement system:
 
 Explore Britannia and discover its secrets:
 
-- Visit all towns
-- Discover all dungeons
-- Find hidden locations
-- Explore ruins and landmarks
-- Discover all moongate locations
-
-### Hunting Achievements
-
-Defeat monsters and bosses:
-
-- Kill specific creature types
-- Defeat certain numbers of enemies
-- Defeat powerful bosses
-- Complete champion spawns
-- Kill rare creatures
-
-### Crafting Achievements
-
-Master the artisan trades:
-
-- Craft specific numbers of items
-- Create exceptional items
-- Complete Bulk Order Deeds
-- Master crafting skills
-- Create legendary items
-
-### PvP Achievements
-
-Prove yourself in combat:
-
-- Player kills milestones
-- CTF victories
-- Conquest participation
-- Duel victories
-- Bounty hunting
+- **Towns:** Visit major cities like Britain, Trinsic, Yew, and more
+- **Dungeons:** Discover all levels of Covetous, Deceit, Despise, Destard, Hythloth, Wrong, Shame
+- **Points of Interest:** Find hidden locations and landmarks throughout the world
 
 ### Skill Achievements
 
 Develop your character:
 
-- Reach GM in specific skills
-- Reach GM in multiple skills
-- Master skill combinations
-- Complete skill-specific challenges
+- Reach Grandmaster (100.0) in any skill
+- Covers all 40+ skills from Alchemy to Wrestling
+- Each skill mastery awards achievement points
 
-### System Achievements
+### Hunting Achievements
 
-Engage with New Dawn's custom systems:
+Defeat monsters throughout Britannia:
 
-- Complete Codex Rifts
-- Finish Pirate Adventures
-- Archaeological discoveries
-- Gardening milestones
-- Spirit Summoner achievements
+- **Mammals:** Bears, wolves, felines, bovines, and more
+- **Birds:** Eagles, phoenixes, chickens, and various avian creatures  
+- **Reptiles:** Dragons, serpents, lizardmen, and other scaled beasts
+- **Undead:** Skeletons, zombies, liches, and other undead horrors
+- **Bosses and Rare Creatures:** Challenging enemies with special achievements
 
-### Event Achievements
+Tiered progressions track kills from first encounter to legendary slayer status.
 
-Participate in seasonal and special events:
+### Resource Gathering Achievements
 
-- Holiday event participation
-- Limited-time challenges
-- Seasonal competitions
-- Server-wide events
+Master harvesting and collecting:
+
+- **Mining:** Track ore collected from Iron to Valorite
+- **Lumberjacking:** Count logs chopped from regular to rare wood types
+- **Fishing:** Record your catches and fishing milestones
+
+Progressive tiers reward increasing amounts harvested.
+
+### PvP Achievements
+
+Prove yourself in player combat:
+
+- **Solo PK:** Unassisted player kills
+- **Group PK:** Assisted player kills with friends
+- Multiple difficulty tiers from first kill to legendary status
+
+### PvM Achievements
+
+Special PvM-related accomplishments:
+
+- **Rare Items:** Discover and collect rare items throughout the world
+- Track your treasure hunting progress
 
 ## Rewards
 
@@ -114,18 +98,11 @@ Participate in seasonal and special events:
 
 Unlock exclusive titles to display on your character:
 
-- Titles reflect your accomplishments
-- Multiple title categories
-- Rare titles for difficult achievements
-- Can be changed at any time via `[profile`
-- Shown on your paperdoll and overhead
-
-**Example Titles:**
-
-- "The Explorer" for discovery achievements
-- "The Legendary Crafter" for crafting mastery
-- "Champion Slayer" for hunting achievements
-- "Duelmaster" for PvP accomplishments
+- Many achievements grant exclusive titles upon completion
+- Titles are automatically added to your title collection
+- Examples include "Jailbird", "Midas Touch", "Copper Top", "Bronze Age Hero", "Mighty Oak"
+- Usually granted for completing the highest tier of achievement chains
+- Access your titles through the title system to equip them
 
 ### Item Rewards
 
@@ -137,25 +114,23 @@ Earn exclusive items:
 - Unique clothing or accessories
 - Rare dyes or customization items
 
-### Point Milestones
+### Achievement Rewards
 
-Reach achievement point thresholds to unlock:
+Each achievement can grant:
 
-- **500 points:** Basic milestone reward
-- **1,000 points:** Intermediate milestone
-- **2,500 points:** Advanced milestone
-- **5,000 points:** Elite milestone
-- **10,000+ points:** Legendary milestones
+- Achievement points that accumulate on your character
+- Exclusive titles for display
+- Physical item rewards (delivered to backpack or bank)
+- Recognition through the leaderboard system
 
 ## Viewing Achievements
 
 ### In-Game Commands
 
-- `[achievements` - Open achievement window
-- `[profile` - Access profile with achievement tab
-- Check progress bars for partial completions
-- Filter by category
-- Sort by completion, difficulty, or points
+- `[achievements` - Open achievement window (aliases: `[ach`, `[achievement`, `[achs`)
+- View progress bars for partial completions
+- Browse achievements by category
+- See completion status and earned points
 
 ### Achievement Details
 
@@ -168,43 +143,10 @@ Each achievement shows:
 - Rewards earned
 - Date completed (if finished)
 
-## Strategy & Tips
-
-### Efficient Point Farming
-
-- Focus on partially completed achievements first
-- Combine related achievements (hunting + skill gains)
-- Participate in events for bonus achievements
-- Work on discovery achievements while traveling
-- Don't ignore easy achievements - points add up!
-
-### Long-Term Goals
-
-- Pick 2-3 major achievements to focus on
-- Chip away at progress consistently
-- Some achievements require sustained effort
-- Plan character builds around achievement goals
-- Balance fun with achievement hunting
-
-### Title Planning
-
-- Research which titles you want
-- Work backwards from title to achievements needed
-- Some titles are easier to get than others
-- Rare titles show dedication and skill
-
-### Completionist Approach
-
-- Track which categories need attention
-- Diversify your gameplay
-- Try content you normally wouldn't
-- Achievement system encourages trying everything
-- Don't burn out chasing 100% completion
-
 ## Common Questions
 
 **Q: Are achievements account-wide?**
-A: Yes, achievement progress and points are shared across all characters.
+A: No, achievement progress and points are tracked per character. Each character has their own achievements to complete.
 
 **Q: Can I lose achievement progress?**
 A: No, once progress is made or an achievement is completed, it's permanent.
@@ -212,8 +154,8 @@ A: No, once progress is made or an achievement is completed, it's permanent.
 **Q: Do titles have benefits?**
 A: Titles are primarily cosmetic but show your accomplishments to others.
 
-**Q: Can I hide my achievement progress?**
-A: You can control what others see in your public profile.
+**Q: What happens when I complete an achievement?**
+A: You'll hear a sound effect, see a completion gump, and receive your points and any rewards (items or titles) automatically.
 
 **Q: Are there hidden achievements?**
 A: Some achievements may not be visible until you discover them!
@@ -221,34 +163,32 @@ A: Some achievements may not be visible until you discover them!
 **Q: Will more achievements be added?**
 A: Yes, achievements are added with new content and systems.
 
-## Public Profile
+## Leaderboards
 
-Share your achievements with others:
+Compete with other players:
 
-- Set your public profile visibility via `[profile`
-- Others can view your accomplishments
-- Show off rare titles and high point totals
-- Compare progress with friends
-- Build your reputation through achievements
+- Leaderboards track total achievement points
+- See how you rank against other players
+- Completion counts are tracked
+- Strive to reach the top of the rankings
 
 ## Related Systems
 
-- [Codex Rifts](codex-rifts.md) - Rift-related achievements
-- [Pirate Adventures](pirate-adventures.md) - Pirate hunting achievements
-- [Capture the Flag](capture-the-flag.md) - PvP achievement opportunities
-- [Archaeology](archaeology.md) - Discovery achievements
-- [Crafting](../game-mechanics/crafting.md) - Crafting achievement challenges
+- [Codex Rifts](codex-rifts.md) - Special PvM content
+- [Pirate Adventures](pirate-adventures.md) - Pirate hunting opportunities
+- [Capture the Flag](capture-the-flag.md) - PvP competition
+- [Archaeology](archaeology.md) - Discovery opportunities
 
 ## Patch History
 
 The Achievement system underwent major changes:
 
-- **Early patches:** Basic achievement tracking
-- **0.30:** Initial implementation attempt
-- **0.42:** Enhanced achievement system
-- **1.0:** Complete rewrite with point-based progression
-- **1.0:** Multiple categories added
-- **1.0:** Title and item rewards implemented
+- **Early patches:** Initial achievement tracking implementation
+- **October 2025:** Complete system rewrite with modern builder-based architecture
+- **October 2025:** Point-based progression system implemented
+- **October 2025:** Multiple achievement categories added (Discovery, Skills, Hunting, PvP, PvM, Harvesting)
+- **October 2025:** Title and item reward system implemented
+- **October 2025:** Performance optimizations with O(1) lookups
 
 The system continues to evolve with new achievements added regularly.
 

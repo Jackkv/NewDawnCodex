@@ -11,19 +11,25 @@ Tracking allows you to detect and locate creatures, NPCs, and players within a r
 ## Effects
 
 ### Target Detection
+
 Locate nearby:
+
 - Players
 - Monsters and creatures
 - NPCs
 - All living beings in range
 
 ### Tracking Information
+
 - Shows direction to target
 - Distance indication
 - Target type identification
-- Multiple target tracking
 
 ### Range
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 - Radius increases with skill
 - 0-30: Short range
 - 30-60: Medium range
@@ -33,13 +39,16 @@ Locate nearby:
 ## Training
 
 ### Active Training
+
 Use Tracking skill:
+
 - Activate repeatedly
 - Any location works
 - Gains per use
 - Fast training
 
 ### Training Tips
+
 - Macro tracking activation
 - Train anywhere
 - Quick skill to GM
@@ -51,11 +60,13 @@ Use Tracking skill:
 ## Related Skills
 
 **Synergy With:**
+
 - [Detecting Hidden](detecting-hidden.md) - Find then reveal ⭐⭐⭐⭐
 - [Archery](archery.md) - Find and shoot
 - Combat skills - Locate targets
 
 **Hunter Template:**
+
 - Tracking: 100 ⭐
 - [Archery](archery.md): 100
 - [Tactics](tactics.md): 100
@@ -65,6 +76,7 @@ Use Tracking skill:
 - [Resisting Spells](resisting-spells.md): 100
 
 **Scout Template:**
+
 - Tracking: 100
 - [Detecting Hidden](detecting-hidden.md): 100
 - [Hiding](hiding.md): 100
@@ -74,47 +86,37 @@ Use Tracking skill:
 ## Uses
 
 ### PvM (Player vs Monster)
+
 - Find specific monster spawns
 - Locate rare creatures
 - Hunt efficiently
 - Find dungeon bosses
 
 ### PvP (Player vs Player)
+
 - Detect enemy players
 - Avoid ambushes
 - Find hidden enemies (general location)
 - Situational awareness
 
 ### Exploration
+
 - Find NPCs in towns
 - Locate quest objectives
 - Navigate safely
 - Area reconnaissance
 
-## Tracking Display
-
-### Information Shown
-- Target name (if known)
-- Creature type
-- Approximate direction
-- General distance
-- Multiple targets listed
-
-### Following Tracks
-- Follow arrow direction
-- Re-track as you move
-- Narrow down location
-- Close in on target
-
 ## PvP Applications
 
 ### Defensive Use
+
 - Detect incoming players
 - Avoid PKs (player killers)
 - Early warning system
 - Escape opportunity
 
 ### Offensive Use
+
 - Find PvP targets
 - Locate enemy positions
 - Plan ambushes
@@ -123,12 +125,16 @@ Use Tracking skill:
 ## Limitations
 
 ### Cannot Reveal
+
 - Tracking finds general location
 - Doesn't reveal hidden players
 - Need [Detecting Hidden](detecting-hidden.md) to reveal
-- Shows direction, not exact spot
 
 ### Range Limited
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 - Maximum range at 100 skill
 - Some targets may be outside range
 - Must re-track as targets move
@@ -141,6 +147,7 @@ Use Tracking skill:
 ---
 
 **Related Pages:**
+
 - [Detecting Hidden](detecting-hidden.md)
 - [Hiding](hiding.md)
 - [Stealth](stealth.md)

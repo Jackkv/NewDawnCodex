@@ -11,12 +11,14 @@ Discordance is a bard skill that allows you to weaken creatures and NPCs with di
 ## Effects
 
 ### Creature Weakening
+
 - Reduce creature stats and resistances
 - Lower combat effectiveness
 - Debuff enemy targets
 - Duration based on skill
 
 ### Requirements
+
 - Musical instrument equipped
 - [Musicianship](musicianship.md) skill
 - Line of sight to target
@@ -24,13 +26,16 @@ Discordance is a bard skill that allows you to weaken creatures and NPCs with di
 ## Training
 
 ### Active Training
+
 Use Discordance on:
+
 - Aggressive monsters
 - Town creatures
 - Dungeon monsters
 - Any targetable creature
 
 ### Training Tips
+
 - Practice on low-level creatures first
 - Train alongside Musicianship
 - Use in safe combat scenarios
@@ -38,13 +43,16 @@ Use Discordance on:
 ## Related Skills
 
 **Required:**
+
 - [Musicianship](musicianship.md) - Bard foundation ⭐⭐⭐⭐⭐
 
 **Bard Skills:**
+
 - [Peacemaking](peacemaking.md) - Area pacification
 - [Provocation](provocation.md) - Monster vs monster
 
 **Bard Template:**
+
 - [Musicianship](musicianship.md): 100
 - **Discordance: 100** ⭐
 - [Provocation](provocation.md): 100
@@ -56,12 +64,14 @@ Use Discordance on:
 ## Uses
 
 ### PvM (Player vs Monster)
+
 - Pacify dangerous creatures
 - Create temporary allies
 - Control difficult encounters
 - Solo challenging content
 
 ### Support Role
+
 - Protect group members
 - Control battlefield
 - Disable specific threats
@@ -69,11 +79,13 @@ Use Discordance on:
 ## Limitations
 
 ### Skill Checks
+
 - May fail on high-level creatures
 - Success based on skill difference
 - Creatures may resist
 
 ### Duration
+
 - Effect is temporary
 - Must be reapplied
 - Can break if attacked
@@ -85,6 +97,7 @@ Use Discordance on:
 ---
 
 **Related Pages:**
+
 - [Musicianship](musicianship.md)
 - [Peacemaking](peacemaking.md)
 - [Provocation](provocation.md)

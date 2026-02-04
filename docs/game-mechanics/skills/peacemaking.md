@@ -11,12 +11,14 @@ Peacemaking is a bard skill that creates a zone of peace, making all creatures i
 ## Effects
 
 ### Area Pacification
+
 - All creatures in range become peaceful
 - Stops combat temporarily
 - Affects all nearby monsters
 - Duration based on skill level
 
 ### Requirements
+
 - Musical instrument equipped
 - [Musicianship](musicianship.md) skill
 - Affects area around you
@@ -24,13 +26,16 @@ Peacemaking is a bard skill that creates a zone of peace, making all creatures i
 ## Training
 
 ### Active Training
+
 Use Peacemaking:
+
 - In dungeons with monsters
 - Near aggressive creatures
 - Repeatedly activate skill
 - Trains alongside Musicianship
 
 ### Training Tips
+
 - Practice in safe dungeons
 - Use near groups of monsters
 - Train while hunting
@@ -39,13 +44,19 @@ Use Peacemaking:
 ## Related Skills
 
 **Required:**
+
 - [Musicianship](musicianship.md) - Bard foundation ⭐⭐⭐⭐⭐
 
 **Bard Skills:**
+
 - [Provocation](provocation.md) - Offensive alternative
 - [Discordance](discordance.md) - Debuff targets
 
 **Bard Template:**
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 - [Musicianship](musicianship.md): 100
 - Peacemaking: 100 ⭐
 - [Provocation](provocation.md): 100
@@ -57,18 +68,21 @@ Use Peacemaking:
 ## Uses
 
 ### PvM (Player vs Monster)
+
 - Control dangerous encounters
 - Escape overwhelming situations
 - Provide group breathing room
 - Handle multiple monsters
 
 ### Group Support
+
 - Protect party members
 - Control battlefield
 - Enable safe healing
 - Manage adds
 
 ### Solo Play
+
 - Handle multiple spawns
 - Safe looting
 - Escape tool
@@ -77,18 +91,21 @@ Use Peacemaking:
 ## Mechanics
 
 ### Area of Effect
+
 - Affects all creatures nearby
 - Radius based on skill level
 - Must be maintained
 - Can be reapplied
 
 ### Duration
+
 - Temporary effect
 - Monsters resume attacking when it ends
 - Reactivate as needed
 - Success rate based on skill difference
 
 ### Breaking Peace
+
 - Attacking breaks peace effect
 - Peace ends naturally over time
 - Monsters may resist
@@ -97,12 +114,14 @@ Use Peacemaking:
 ## Strategy
 
 ### Effective Use
+
 1. Peace area
 2. Kill monsters one at a time
 3. Re-peace as needed
 4. Control battle flow
 
 ### Emergency Escape
+
 - Peace to stop attacks
 - Run away while peaceful
 - Heal during peace
@@ -115,6 +134,7 @@ Use Peacemaking:
 ---
 
 **Related Pages:**
+
 - [Musicianship](musicianship.md)
 - [Provocation](provocation.md)
 - [Discordance](discordance.md)

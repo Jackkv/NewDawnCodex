@@ -307,21 +307,6 @@ All currencies are account-wide:
 - Maximize damage on rift masters
 - Group recommended
 
-### Spending Wisely
-
-**Priority Items:**
-
-1. Unique decoratives you want
-2. Dyes for customization
-3. Cosmetic items
-
-**Saving Strategy:**
-
-- Research reward costs before spending
-- Save for high-value items
-- Don't waste on impulse buys
-- Plan your purchases
-
 ## Future Additions
 
 The currency and reward system continues to expand:

@@ -11,6 +11,7 @@ Swordsmanship is a primary melee combat skill focused on wielding bladed weapons
 ## Weapons
 
 ### One-Handed Swords
+
 - Longsword
 - Broadsword
 - Katana
@@ -19,27 +20,35 @@ Swordsmanship is a primary melee combat skill focused on wielding bladed weapons
 - Scimitar
 
 ### Two-Handed Weapons
+
 - Halberd
 - Bardiche
 
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Early Training (0-30)
+
 - Use training dummy in town
 - Safe and consistent gains
 - Cost: minimal weapon repair
 
 ### Intermediate (30-50)
+
 - Hunt weak monsters (ettins, orcs)
 - Switch to real combat
 - Practice timing and movement
 
 ### Advanced (50-70)
+
 - Fight mid-level monsters (trolls, ogres)
 - Join group hunts
 - Focus on tougher enemies
 
 ### Master Level (70-100)
+
 - Battle strong monsters (dragons, demons)
 - Champion spawns
 - PvP practice
@@ -47,12 +56,14 @@ Swordsmanship is a primary melee combat skill focused on wielding bladed weapons
 ## Related Skills
 
 **Essential Pairs:**
+
 - [Tactics](tactics.md) - Increases damage output
 - [Anatomy](anatomy.md) - Critical hit chance and healing
 - [Healing](healing.md) - Self-sustainability
 - [Parrying](parrying.md) - Defensive capability
 
 **Recommended:**
+
 - [Resisting Spells](resisting-spells.md) - Magic defense
 
 ## Combat Tips
@@ -67,28 +78,31 @@ Swordsmanship is a primary melee combat skill focused on wielding bladed weapons
 ## Equipment Considerations
 
 ### Weapon Choice
+
 - **Speed** - Faster weapons = more hits
 - **Damage** - Higher base damage per hit
-- **Special Moves** - Different weapons have unique abilities
 - **Requirements** - Check STR needed
 
 ### Armor
+
 Balance protection with mobility:
+
 - Heavy armor = better defense
 - Light armor = faster movement
 - Consider dexterity loss
 
 ## Weapon Special Moves
 
-Many swords have special attacks:
-- **Armor Ignore** - Bypass enemy armor
-- **Crushing Blow** - Extra damage
-- **Double Strike** - Hit twice
-- **Whirlwind Attack** - Hit multiple targets
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Swordsman Warrior
+
 - Swordsmanship: 100
 - Tactics: 100
 - Anatomy: 100
@@ -98,6 +112,7 @@ Many swords have special attacks:
 - Magery: 100
 
 ### Swordsman Paladin
+
 - Swordsmanship: 100
 - Tactics: 100
 - Anatomy: 100
@@ -113,6 +128,7 @@ Many swords have special attacks:
 ---
 
 **Related Pages:**
+
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
 - [Character Creation](../../getting-started/character-creation.md)

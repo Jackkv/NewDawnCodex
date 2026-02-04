@@ -11,26 +11,25 @@ Taste Identification allows you to detect poison in food and beverages before co
 ## Effects
 
 ### Poison Detection
+
 - Detect poisoned food
 - Identify poison in drinks
 - Check food safety
 - Prevent poisoning
 
-### Poison Resistance
-- Bonus to resisting poison
-- Stacks with [Resisting Spells](resisting-spells.md)
-- Minor but helpful
-
 ## Training
 
 ### Active Training
+
 Use Taste Identification on:
+
 - Food items
 - Potions
 - Any consumable
 - Repeated attempts
 
 ### Passive Training
+
 - May gain when poisoned
 - Slow passive gains
 - Active training faster
@@ -38,6 +37,7 @@ Use Taste Identification on:
 ## Related Skills
 
 **Poison Skills:**
+
 - [Poisoning](poisoning.md) - Create poisons
 - [Resisting Spells](resisting-spells.md) - Resist effects
 - [Alchemy](alchemy.md) - Make potions
@@ -45,12 +45,14 @@ Use Taste Identification on:
 ## Uses
 
 ### Poison Protection
+
 - Detect poisoned food
 - Avoid assassination attempts
 - Check suspicious items
 - Safety precaution
 
 ### Limited Applications
+
 - Very niche skill
 - Rarely essential
 - Situational use only
@@ -66,6 +68,7 @@ Use Taste Identification on:
 ---
 
 **Related Pages:**
+
 - [Poisoning](poisoning.md)
 - [Alchemy](alchemy.md)
 - [Resisting Spells](resisting-spells.md)

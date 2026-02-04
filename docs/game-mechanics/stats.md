@@ -4,7 +4,7 @@ Understanding your character's core statistics in New Dawn.
 
 ## The Three Primary Stats
 
-Ultima Online uses three primary statistics that define your character's capabilities:
+New Dawn uses three primary statistics that define your character's capabilities:
 
 ### Strength (STR)
 
@@ -124,12 +124,8 @@ Stats gain through skill usage:
 
 ### Stat Gain Rate
 
-- Checks happen during related skill usage
-- Higher current stats = slower gains
-- Approaching cap = very slow gains
-- Random chance on successful actions
-
-!!! tip "Efficient Stat Training" - Focus on 2 stats initially - Lock stats at desired levels - Use stat-gaining skills actively - Be patient near stat cap
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
 ## Secondary Stats
 
@@ -185,35 +181,14 @@ Stats gain through skill usage:
 
 ## Stat-Based Calculations
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Melee Damage
-
-Strength directly affects melee weapon damage:
-
-```
-Base Damage = (Weapon Damage × (STR + 100)) ÷ 200
-```
-
-Higher strength = more damage with melee weapons
 
 ### Swing Speed
 
-Dexterity affects how fast you attack:
-
-```
-Delay = Base Weapon Speed - (DEX ÷ 25)
-```
-
-Higher dexterity = faster attacks
-
 ### Spell Damage
-
-Intelligence affects spell power:
-
-```
-Spell Damage = Base Spell Damage × (INT ÷ 100)
-```
-
-Evaluating Intelligence also significantly affects this
 
 ## Temporary Stat Modifications
 
@@ -313,34 +288,6 @@ If you don't meet stat requirements, you can't use the item effectively or at al
 ## Stat Planning Tips
 
 !!! success "Best Practices" 1. **Know your build** - Plan stat distribution early 2. **Lock strategically** - Use stat locks wisely 3. **Balance survivability** - Don't neglect HP 4. **Consider equipment** - Factor in stat bonuses 5. **Leave room to grow** - Don't max all stats immediately 6. **Test and adjust** - Rebalance as needed
-
-## Common Mistakes
-
-❌ **Don't:**
-
-- Spread stats too evenly
-- Ignore stat locks
-- Forget equipment requirements
-- Max all three stats early
-- Neglect mana (even for warriors)
-
-✅ **Do:**
-
-- Focus on 2-3 primary stats
-- Use stat locks effectively
-- Plan for your build
-- Keep stats balanced for your role
-- Adjust based on experience
-
-## Stat Resets
-
-Some servers offer stat resets:
-
-- **Stat balls** - Complete stat reset
-- **Server commands** - Check with staff
-- **Special items** - Server-specific
-
-Check with New Dawn staff about availability!
 
 ---
 

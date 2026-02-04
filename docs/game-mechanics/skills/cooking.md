@@ -8,20 +8,6 @@ Prepare food and create consumable items.
 
 Cooking allows you to prepare various foods from raw ingredients. While basic food satisfies hunger, higher-level cooking can create special foods with temporary benefits.
 
-## Effects
-
-### Food Preparation
-Create cooked foods:
-- Bread and pastries
-- Cooked meats
-- Fish dishes
-- Special recipes
-
-### Hunger Satisfaction
-- All players need to eat
-- Cooked food restores more hunger
-- Better quality food lasts longer
-
 ## Training
 
 ### Early (0-30)
@@ -72,7 +58,6 @@ Create cooked foods:
 ### Sales
 - Sell food to other players
 - Supply taverns and inns (roleplay)
-- Sell special dishes
 
 ### Roleplay
 - Chef and cook characters
@@ -86,6 +71,7 @@ Create cooked foods:
 ---
 
 **Related Pages:**
+
 - [Fishing](fishing.md)
 - [Crafting Skills](crafting.md)
 - [Skills Overview](index.md)

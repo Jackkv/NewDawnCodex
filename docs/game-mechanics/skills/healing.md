@@ -11,12 +11,15 @@ Healing allows you to restore hit points using bandages. This essential survival
 ## Effects
 
 ### Basic Healing
+
 - **Heal Hit Points** - Restore HP over time
 - **Cure Poison** - Remove poison (requires [Anatomy](anatomy.md))
 - **Resurrect** - Revive dead players (requires high Anatomy)
 
 ### Healing Calculation
+
 HP restored depends on:
+
 - Healing skill level
 - Anatomy skill level
 - Dexterity stat
@@ -25,21 +28,25 @@ HP restored depends on:
 ## Training
 
 ### Early Training (0-30)
+
 - Bandage yourself when damaged
 - Practice in safe areas
 - Get hit by weak monsters, heal up
 
 ### Intermediate (30-50)
+
 - Heal during light combat
 - Practice timing between attacks
 - Heal other players
 
 ### Advanced (50-80)
+
 - Heal during serious combat
 - Perfect timing and positioning
 - Emergency healing practice
 
 ### Master Level (80-100)
+
 - Heal in intense combat
 - Resurrect fallen allies
 - Cure deadly poisons
@@ -50,21 +57,25 @@ HP restored depends on:
 ## Requirements
 
 ### Bandages
+
 - Created via [Tailoring](crafting.md#tailoring)
 - Made from cloth
 - Stack up to 60,000
 - Lightweight and portable
 
 ### Recommended Skills
+
 - **[Anatomy](anatomy.md)** - Greatly improves healing effectiveness
 - High Dexterity - Faster bandage application
 
 ## Related Skills
 
 **Essential Pair:**
+
 - [Anatomy](anatomy.md) - Improves healing, enables cure/resurrect
 
 **Combat Package:**
+
 - Weapon Skill: 100
 - [Tactics](tactics.md): 100
 - [Anatomy](anatomy.md): 100
@@ -73,13 +84,16 @@ HP restored depends on:
 ## Healing Mechanics
 
 ### Application Time
+
 - Base time: 4-5 seconds
 - Affected by Dexterity
 - Higher DEX = faster application
 - Can be interrupted by damage
 
 ### Healing Amount
+
 Formula factors:
+
 - Healing skill (primary)
 - Anatomy skill (major bonus)
 - Dexterity (minor modifier)
@@ -88,20 +102,26 @@ Formula factors:
 ## Advanced Techniques
 
 ### Combat Healing
+
 Timing is everything:
+
 1. Take damage
 2. Create distance from enemy
 3. Apply bandage
 4. Return to combat after heal completes
 
 ### Cure Poison
+
 Requirements:
+
 - Healing: 60+
 - Anatomy: 60+
 - Success rate increases with skill
 
 ### Resurrection
+
 Requirements:
+
 - Healing: 80+
 - Anatomy: 80+
 - Stand next to corpse
@@ -112,7 +132,11 @@ Requirements:
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Warrior
+
 - Weapon Skill: 100
 - Tactics: 100
 - Anatomy: 100
@@ -122,6 +146,7 @@ Requirements:
 - Magery: 100
 
 ### Archer
+
 - Archery: 100
 - Tactics: 100
 - Anatomy: 100
@@ -131,6 +156,7 @@ Requirements:
 - Resisting Spells: 100
 
 ### Field Medic
+
 - **Healing: 100** ⭐
 - Anatomy: 100
 - Magery: 100
@@ -142,12 +168,14 @@ Requirements:
 ## PvP Importance
 
 In PvP, Healing is critical:
+
 - Self-sustainability
 - No mana cost (unlike magic healing)
 - Works in anti-magic fields
 - Can cure poison independently
 
 ### PvP Timing
+
 - Heal between enemy attacks
 - Use movement to create healing windows
 - Pre-bandage before big damage
@@ -156,19 +184,24 @@ In PvP, Healing is critical:
 ## Alternative Healing
 
 ### Magery Healing
+
 Mages use spells instead:
+
 - [Heal](magery.md) spell - Fast HP restore
 - [Greater Heal](magery.md) spell - More HP
 - [Close Wounds](magery.md) - Instant heal
 
 ### Comparison
+
 **Bandages:**
+
 - ✅ No mana cost
 - ✅ Works anywhere
 - ❌ Takes time
 - ❌ Can be interrupted
 
 **Magic Healing:**
+
 - ✅ Instant or faster
 - ✅ More HP restored
 - ❌ Costs mana
@@ -183,6 +216,7 @@ Every non-mage combat build should have 100 Healing!
 ---
 
 **Related Pages:**
+
 - [Combat Skills Overview](index.md#combat-skills)
 - [Anatomy](anatomy.md)
 - [Tailoring](crafting.md#tailoring)

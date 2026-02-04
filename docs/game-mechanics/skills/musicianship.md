@@ -11,12 +11,15 @@ Musicianship is the core skill for all bard abilities. It determines the success
 ## Effects
 
 ### Bard Skill Foundation
+
 Enables and enhances:
+
 - [Peacemaking](peacemaking.md) - Pacify area
 - [Provocation](provocation.md) - Turn monsters against each other
 - [Discordance](discordance.md) - Weaken creatures
 
 ### Success Modifier
+
 - Higher Musicianship = better bard skill success
 - Reduces bard skill failure rate
 - Essential for high-level bard play
@@ -24,12 +27,15 @@ Enables and enhances:
 ## Training
 
 ### Active Training
+
 Use Musicianship:
+
 - Play instrument repeatedly
 - Practice anywhere
 - Gains on each attempt
 
 ### Passive Training
+
 - Trains while using other bard skills
 - Improves alongside Peacemaking/Provocation
 - Natural growth during bard activities
@@ -40,7 +46,9 @@ Use Musicianship:
 ## Materials
 
 ### Instruments
+
 Any instrument works:
+
 - Lute
 - Drum
 - Tambourine
@@ -53,11 +61,13 @@ Crafted by [Carpentry](carpentry.md)
 ## Related Skills
 
 **Enables Bard Skills:**
+
 - [Peacemaking](peacemaking.md) - Area pacification ⭐⭐⭐⭐⭐
 - [Provocation](provocation.md) - Monster combat ⭐⭐⭐⭐⭐
 - [Discordance](discordance.md) - Debuff creatures ⭐⭐⭐
 
 **Standard Bard Template:**
+
 - Musicianship: 100 ⭐
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
@@ -68,7 +78,11 @@ Crafted by [Carpentry](carpentry.md)
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Provocation Bard (PvM)
+
 - Musicianship: 100
 - [Provocation](provocation.md): 100
 - [Peacemaking](peacemaking.md): 100
@@ -78,6 +92,7 @@ Crafted by [Carpentry](carpentry.md)
 - [Evaluating Intelligence](evaluating-intelligence.md): 100
 
 ### Peace Bard (Support)
+
 - Musicianship: 100
 - [Peacemaking](peacemaking.md): 100
 - [Provocation](provocation.md): 100
@@ -91,6 +106,7 @@ Crafted by [Carpentry](carpentry.md)
 ---
 
 **Related Pages:**
+
 - [Peacemaking](peacemaking.md)
 - [Provocation](provocation.md)
 - [Discordance](discordance.md)

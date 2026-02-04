@@ -11,19 +11,26 @@ Parrying allows you to block incoming attacks with a shield. This defensive skil
 ## Effects
 
 ### Active Defense
+
 - **Block Attacks** - Chance to completely block incoming hits
 - **Reduce Damage** - Even partial blocks reduce damage
 - **Stagger Enemies** - Blocked attacks can interrupt opponents
 
 ### Requirements
+
 - Shield equipped
 - Combat skill (weapon skill or wrestling)
 - Active engagement in combat
 
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Combat Training
+
 Parrying improves by taking hits:
+
 - Equip a shield
 - Engage in combat
 - Get hit by enemies
@@ -31,17 +38,23 @@ Parrying improves by taking hits:
 
 ### Training Methods
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 **Early (0-40):**
+
 - Fight weak monsters while blocking
 - Training arena sparring
 - Safe controlled environment
 
 **Intermediate (40-70):**
+
 - Hunt mid-level monsters
 - Take more hits intentionally
 - Group hunting (let them hit you)
 
 **Advanced (70-100):**
+
 - Fight strong monsters
 - Champion spawns
 - PvP practice
@@ -52,12 +65,17 @@ Parrying improves by taking hits:
 ## Related Skills
 
 **Essential for Tanks:**
+
 - [Healing](healing.md) - Survive training
 - [Tactics](tactics.md) - Damage output
 - [Anatomy](anatomy.md) - Critical hits
 - Weapon skill - Combat effectiveness
 
 **Full Tank Build:**
+
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 - Weapon Skill: 100
 - Tactics: 100
 - Anatomy: 100
@@ -69,16 +87,19 @@ Parrying improves by taking hits:
 ## Shield Types
 
 ### Light Shields
+
 - Wooden Shield
 - Buckler
 - Lower defense, lighter weight
 
 ### Medium Shields
+
 - Metal Shield
 - Heater Shield
 - Balanced protection
 
 ### Heavy Shields
+
 - Tower Shield
 - Chaos Shield
 - Maximum protection, higher requirements
@@ -88,29 +109,17 @@ Parrying improves by taking hits:
 
 ## Block Mechanics
 
-### Block Chance
-Factors affecting block success:
-- Parrying skill level
-- Shield quality
-- Dexterity
-- Enemy weapon skill
-- Combat positioning
+!!! warning
+These need refinement. Confirm your template in the Discord community.
 
-### Block Types
-- **Full Block** - No damage taken
-- **Partial Block** - Reduced damage
-- **Failed Block** - Full damage
+### Block Chance
 
 ## Combat Strategy
 
-### Defensive Positioning
-1. Engage enemy
-2. Let shield absorb hits
-3. Counter attack between blocks
-4. Heal when necessary
-
 ### Tank Role
+
 In groups, high Parrying allows you to:
+
 - Take damage for the team
 - Protect weaker members
 - Control enemy aggression
@@ -118,7 +127,11 @@ In groups, high Parrying allows you to:
 
 ## Character Templates
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Sword & Board Tank
+
 - Swordsmanship: 100
 - Tactics: 100
 - Anatomy: 100
@@ -128,6 +141,7 @@ In groups, high Parrying allows you to:
 - Magery: 100
 
 ### Paladin
+
 - Weapon Skill: 100
 - Tactics: 100
 - Anatomy: 100
@@ -139,12 +153,14 @@ In groups, high Parrying allows you to:
 ## PvP Considerations
 
 In PvP, Parrying:
+
 - Reduces burst damage
 - Protects against weapon specials
 - Increases survival time
 - Forces enemy to adjust tactics
 
 ### Trade-offs
+
 - Takes 100 skill points
 - Requires shield (no 2H weapons)
 - Must balance offense and defense
@@ -157,6 +173,7 @@ In PvP, Parrying:
 ---
 
 **Related Pages:**
+
 - [Combat Skills Overview](index.md#combat-skills)
 - [Combat System](../combat.md)
 - [Healing](healing.md)

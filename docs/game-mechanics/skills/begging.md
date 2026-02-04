@@ -11,13 +11,16 @@ Begging allows you to ask NPCs and players for gold. While not a combat or craft
 ## Effects
 
 ### Gold Generation
+
 - Request gold from NPCs
 - Success based on skill level
 - Limited gold per NPC per day
 - Can target players (they must consent)
 
 ### Success Rate
+
 Higher skill = more frequent success:
+
 - 0-30: Very rare success
 - 30-60: Occasional gold
 - 60-100: Better rates and amounts
@@ -25,13 +28,16 @@ Higher skill = more frequent success:
 ## Training
 
 ### Active Training
+
 Use Begging on:
+
 - Town NPCs
 - Shopkeepers
 - Guards
 - Other friendly NPCs
 
 ### Training Tips
+
 - Visit multiple towns
 - Target different NPCs
 - Be patient with gains
@@ -39,6 +45,7 @@ Use Begging on:
 ## Related Skills
 
 **Roleplay Skills:**
+
 - [Hiding](hiding.md) - Escape after begging
 - [Stealing](stealing.md) - Alternative income
 - [Snooping](snooping.md) - Check targets first
@@ -46,11 +53,13 @@ Use Begging on:
 ## Uses
 
 ### Income Generation
+
 - Supplement other income sources
 - Emergency funds
 - Roleplay income for beggar characters
 
 ### Roleplay
+
 - Create beggar character concepts
 - Town beggars and street urchins
 - Unique character backgrounds
@@ -62,5 +71,6 @@ Use Begging on:
 ---
 
 **Related Pages:**
+
 - [Skills Overview](index.md)
 - [Currencies](../currencies.md)

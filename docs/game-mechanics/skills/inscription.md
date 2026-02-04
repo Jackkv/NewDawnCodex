@@ -11,7 +11,9 @@ Inscription allows you to scribe spell scrolls and create runebooks. Additionall
 ## What You Can Create
 
 ### Spell Scrolls
+
 Scribe scrolls for all spell circles:
+
 - **First Circle** - Basic spells
 - **Second Circle** - Utility spells
 - **Third Circle** - Travel and combat
@@ -22,33 +24,36 @@ Scribe scrolls for all spell circles:
 - **Eighth Circle** - Resurrection, Earthquake
 
 ### Runebooks
+
 - **Runebooks** - Store multiple recall runes
 - Organization for travel
 - Essential utility item
 
-### Slayer Spellbooks
-- **Special Spellbooks** - Bonus vs creature types
-- Demon Slayer, Dragon Slayer, etc.
-- Powerful PvM advantage
-
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Early (0-30)
+
 - Scribe first circle scrolls
 - Magic Arrow, Heal, Night Sight
 - Cheap reagents, fast gains
 
 ### Intermediate (30-50)
+
 - Progress through circles
 - Second and third circle scrolls
 - Moderate reagent cost
 
 ### Advanced (50-70)
+
 - Fourth and fifth circle scrolls
 - Recall, Greater Heal
 - Higher costs
 
 ### Master (70-100)
+
 - High circle scrolls
 - Sixth, seventh, eighth circles
 - Runebooks and slayer books
@@ -60,21 +65,28 @@ Scribe scrolls for all spell circles:
 ## Requirements
 
 ### Tools & Materials
+
 - **Scribe's Pen** - Inscription tool
 - **Blank Scrolls** - Writing surface
 - **Reagents** - Specific to each spell
 
 ### Skill Requirements
+
 - Inscription skill for the spell circle
 - Higher circles need higher skill
 
 ## Related Skills
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 **Perfect Pairs:**
+
 - [Magery](magery.md) - Cast the spells you scribe
 - [Alchemy](crafting.md#alchemy) - Another crafting skill
 
 **Mage Build:**
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - Meditation: 100
@@ -85,43 +97,29 @@ Scribe scrolls for all spell circles:
 ## Spell Damage Bonus
 
 ### Inscription Bonus
-Having Inscription increases your spell damage:
-- Significant damage boost
-- Stacks with Eval Int
-- Makes scrolls + damage bonus worth it
-- Competitive advantage in PvP
 
 ### Damage Calculation
-Total spell damage:
-- Base spell damage
-- + Magery bonus
-- + Eval Int bonus
-- + **Inscription bonus** ⭐
-- = Maximum damage output
 
 ## Economic Value
 
 ### Selling Scrolls
+
 - Create scrolls to sell
 - NPCs buy certain scrolls
 - Players need scrolls for casting
 - Steady income source
 
 ### Runebooks
+
 - High demand item
 - Essential for all players
 - Good profit margins
 - Regular sales
 
-### Slayer Books
-- Premium items
-- High value
-- Sought after by hunters
-- Excellent profits
-
 ## Character Templates
 
 ### Scribe Mage
+
 - Magery: 100
 - Evaluating Intelligence: 100
 - **Inscription: 100** ⭐
@@ -131,6 +129,7 @@ Total spell damage:
 - Poisoning: 100
 
 ### Crafter Mage
+
 - Magery: 100
 - **Inscription: 100** ⭐
 - Alchemy: 100
@@ -142,22 +141,15 @@ Total spell damage:
 ## PvP Advantages
 
 Inscription in PvP provides:
-- Maximum spell damage
-- Competitive edge in mage duels
-- Better burst damage
-- Kill enemies faster
 
 ## PvM Benefits
 
 For hunting:
-- Higher DPS on monsters
-- Faster kills
-- More efficient farming
-- Self-sufficient scroll supply
 
 ## Crafting as Income
 
 ### Business Model
+
 1. Buy reagents in bulk
 2. Scribe high-demand scrolls
 3. Create runebooks
@@ -165,14 +157,15 @@ For hunting:
 5. Profit margins vary
 
 ### Best Sellers
+
 - Recall scrolls (high demand)
 - Gate Travel scrolls
 - Runebooks (always needed)
-- Slayer spellbooks (premium)
 
 ## Bulk Order Deeds (BODs)
 
 If BODs are enabled:
+
 - Scribe specific scrolls
 - Turn in for rewards
 - Earn special resources
@@ -180,12 +173,13 @@ If BODs are enabled:
 
 ## Importance
 
-⭐⭐⭐⭐⭐ (Excellent for combat mages)
+⭐⭐⭐ (for combat mages)
 ⭐⭐⭐⭐ (Very profitable crafting skill)
 
 ---
 
 **Related Pages:**
+
 - [Magic Skills Overview](index.md#magic-skills)
 - [Magery](magery.md)
 - [Crafting Skills](index.md#crafting-skills)

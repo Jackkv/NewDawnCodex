@@ -11,13 +11,16 @@ Lockpicking allows you to open locked chests, doors, and containers without keys
 ## Effects
 
 ### Lock Opening
+
 - Open locked chests
 - Unlock doors
 - Pick treasure chest locks
 - Access locked containers
 
 ### Difficulty Levels
+
 Different locks require different skill:
+
 - Simple locks (0-30 skill)
 - Average locks (30-60 skill)
 - Complex locks (60-85 skill)
@@ -25,22 +28,29 @@ Different locks require different skill:
 
 ## Training
 
+!!! warning
+These need refinement. Confirm your template in the Discord community.
+
 ### Early (0-30)
+
 - Buy practice locks from NPC tinker
 - Pick simple locked boxes
 - Macro on training boxes
 
 ### Intermediate (30-60)
+
 - Pick dungeon chests
 - Practice on treasure chests
 - Increase difficulty gradually
 
 ### Advanced (60-85)
+
 - Pick treasure map chests
 - Master level locks
 - High-level content
 
 ### Master (85-100)
+
 - Pick any lock
 - High success rate
 - Expert lockpick
@@ -48,6 +58,7 @@ Different locks require different skill:
 ## Materials
 
 ### Tools
+
 - **Lockpicks** - Required for picking locks
 - Created by [Tinkering](tinkering.md)
 - Consumed on failure
@@ -55,10 +66,12 @@ Different locks require different skill:
 ## Related Skills
 
 **Essential For:**
+
 - [Cartography](cartography.md) - Treasure hunting ⭐⭐⭐⭐⭐
 - [Remove Trap](remove-trap.md) - Disarm before opening
 
 **Treasure Hunter Template:**
+
 - [Cartography](cartography.md): 100
 - Lockpicking: 100
 - [Mining](mining.md): 100
@@ -67,6 +80,7 @@ Different locks require different skill:
 - Combat skills
 
 **Thief Template:**
+
 - Lockpicking: 100
 - [Stealing](stealing.md): 100
 - [Hiding](hiding.md): 100
@@ -76,29 +90,28 @@ Different locks require different skill:
 ## Uses
 
 ### Treasure Hunting
+
 - Open treasure chests from maps
 - Access buried treasure
 - Essential for treasure hunting build
 
 ### Dungeon Exploration
+
 - Open locked dungeon chests
-- Access locked rooms
-- Discover hidden loot
 
 ### Thievery
-- Pick locks on player chests (if allowed)
-- Access restricted areas
-- Stealth infiltration
 
 ## Lockpick Consumption
 
 ### Tool Usage
+
 - Lockpicks break on failure
 - Success preserves lockpick
 - Higher skill = fewer breaks
 - Stock up on lockpicks
 
 ### Creating Lockpicks
+
 - Requires [Tinkering](tinkering.md) skill
 - Made from iron ingots
 - Cheap to produce
@@ -106,12 +119,13 @@ Different locks require different skill:
 ## Importance
 
 ⭐⭐⭐⭐⭐ (Essential for treasure hunters)
-⭐⭐⭐⭐ (Important for thieves)
+⭐⭐ (Useful for thieves)
 ⭐⭐ (Useful for others)
 
 ---
 
 **Related Pages:**
+
 - [Cartography](cartography.md)
 - [Remove Trap](remove-trap.md)
 - [Tinkering](tinkering.md)
