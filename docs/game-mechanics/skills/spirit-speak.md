@@ -141,7 +141,6 @@ When healing your spirit summons:
 
 - **Spirit Summoner builds** (essential)
 - Battle mages in plate armor
-- Necromancers
 - Hybrid warrior/mage builds
 - Players who need mobile mana regen
 - Summoner playstyles with [Animal Lore](animal-lore.md)
@@ -168,8 +167,6 @@ For hunting:
 ## Importance
 
 ⭐⭐⭐⭐⭐ (Essential for Spirit Summoners)
-⭐⭐⭐⭐ (Essential for Necromancers)
-⭐⭐⭐ (Useful for battle mages)
 ⭐⭐ (Limited use for pure mages)
 
 ---

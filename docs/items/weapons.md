@@ -45,7 +45,6 @@ Guide to weapons and their properties in New Dawn.
 - **Club:** Basic weapon
 
 **Damage Type:** Physical/Bashing
-**Bonus:** Extra damage vs. undead
 
 ---
 

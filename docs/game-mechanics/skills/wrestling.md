@@ -111,7 +111,6 @@ Even without attacking, wrestling provides:
 - Healing: 100
 - Resisting Spells: 100
 - Parrying: 100
-- Chivalry: 100
 
 ## PvP Considerations
 

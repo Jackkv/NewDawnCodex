@@ -52,7 +52,6 @@ Mace Fighting is the skill for wielding blunt weapons. Some maces have special b
 ### Master Level (70-100)
 
 - Strong monsters (dragons, demons)
-- Undead hunting with bonuses
 - PvP mastery
 
 ## Related Skills
