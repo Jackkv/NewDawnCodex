@@ -136,6 +136,10 @@
     color: var(--nd-gold);
 }
 
+.md-nav--secondary .md-nav__link {
+    font-size: 0.7rem;
+}
+
 /* Fix navigation icon click behavior - remove focus outline that interferes */
 [data-md-color-scheme="slate"] .md-nav__link:focus,
 [data-md-color-scheme="slate"] .md-nav__link:focus-visible {
