@@ -136,6 +136,8 @@
     color: var(--nd-gold);
 }
 
+
+/* Toc right side panel PR #13 */
 .md-nav--secondary .md-nav__link {
     font-size: 0.7rem;
 }
